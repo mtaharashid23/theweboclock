@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        <input type="hidden" name="message" value="no message">
+        <input type="hidden" name="msg" value="no message">
     </div>
     <button type="submit" class="btn btnStarted">Get Started</button>
     <div class="error mt-3 alert alert-danger text-left mb-0" style="display: none"></div>

@@ -116,7 +116,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="fldset">
-                                        <textarea name="message" id="" rows="7" placeholder="Talk About Your Project"
+                                        <textarea name="msg" id="" rows="7" placeholder="Talk About Your Project"
                                             required></textarea>
                                     </div>
                                 </div>

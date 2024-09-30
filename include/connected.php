@@ -9,8 +9,10 @@
                 <h4>Drop Your Information</h4>
                 <form class="form_submission" method="POST">
                     <!-- Custom Fields -->
-                    <input type="hidden" name="url" value='#'>
-                    <input type="hidden" name="domain" value="#">
+                    <input type="hidden" id="location" name="locationURL" value="https://theweboclock.com/">
+                    <script type="text/javascript">
+                        document.getElementById('location').value = window.location.href;
+                    </script>                    
                     <input type="hidden" name="subject" value="#">
                     <div class="form-group">
                         <input type="text" class="form-control" name="name" placeholder="Your name">
@@ -24,7 +26,7 @@
                     </div>
                     <div class="form-group">
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"
-                            placeholder="Start writing message here" name="message"></textarea>
+                            placeholder="Start writing message here" name="msg"></textarea>
                     </div>
                     <button type="submit" class="themeBtn">Send Message</button>
                     <div class="error mt-3 alert alert-danger text-left mb-0" style="display: none"></div>
@@ -64,7 +66,8 @@
                             </div>
                             <div class="content">
                                 <h6>Address</h6>
-                                <p><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA" target="_blank"> 173 E Price Rd, Brownsville, TX 78521, United States</a></p>
+                                <p><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA" target="_blank"> 173 E Price Rd,
+                                        Brownsville, TX 78521, United States</a></p>
                                 <p><a href="#"></a></p>
                             </div>
                         </li>

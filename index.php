@@ -218,7 +218,7 @@ include 'include/header.php'; ?>
                             </div>
                             <div class="form-group">
                                 <textarea class="form-control" rows="3" placeholder="Brief Description"
-                                    name="message"></textarea>
+                                    name="msg"></textarea>
                             </div>
                             <button type="submit" class="btn btn-Custom">Submit</button>
                             <div class="error mt-3 alert alert-danger text-left mb-0" style="display: none"></div>

@@ -68,7 +68,8 @@ $(function () {
     }), $(document).ready(function () {
         jQuery.validator.addMethod("lettersonly", function (e, t) {
             return this.optional(t) || /^[a-zA-Z\s]+$/i.test(e)
-        }, "Invalid Value"), $(".form_submission").each(function () {
+        }, "Invalid Value"), 
+        $(".form_submission").each(function () {
             $(this).validate({
                 rules: {
                     name: {
@@ -82,7 +83,7 @@ $(function () {
                     phone: {
                         required: !0
                     },
-                    message: {
+                    msg: {
                         required: !0
                     }
                 },
@@ -95,22 +96,22 @@ $(function () {
                     var a = $(e).find('[name="name"]').val(),
                         o = $(e).find('[name="email"]').val(),
                         l = $(e).find('[name="phone"]').val(),
-                        r = $(e).find('[name="message"]').val(),
-                        s = $(e).find('[name="url"]').val(),
-                        c = $(e).find('[name="domain"]').val(),
-                        u = $(e).find('[name="subject"]').val();
+                        r = $(e).find('[name="msg"]').val(),
+                        s = $(e).find('[name="locationURL"]').val();
+                        // c = $(e).find('[name="domain"]').val(),
+                        // u = $(e).find('[name="subject"]').val();
                     $.ajax({
                         type: "POST",
-                        url: "include/send_data.php?action=form_submission",
+                        url: "email.php?action=form_submission",
                         dataType: "json",
                         data: {
                             name: a,
                             email: o,
                             phone: l,
-                            message: r,
-                            url: s,
-                            domain: c,
-                            subject: u,
+                            msg: r,
+                            locationURL: s,
+                            // domain: c,
+                            // subject: u,
                             optional: t
                         },
                         success: function (t) {

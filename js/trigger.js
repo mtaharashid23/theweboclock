@@ -80,21 +80,29 @@ nodes.forEach((node) => {
 
 
 // Set up GUI stuff
-const controller = new window.dat.GUI({
-  width: 250,
-  useLocalStorage: true,
-});
+if (window.dat && window.dat.GUI) {
+  const controller = new window.dat.GUI({
+    width: 250,
+    useLocalStorage: true,
+  });
 
-const config = {
-  colour1: '#fff',
-  colour2: '#ff0000',
-  colour3: '#ffff00',
-  colour4: '#0000ff',
-}
+  const config = {
+    colour1: '#fff',
+    colour2: '#ff0000',
+    colour3: '#ffff00',
+    colour4: '#0000ff',
+  };
 
-const coloursFolder = controller.addFolder('Colours');
+  const coloursFolder = controller.addFolder('Colours');
 
-coloursFolder.addColor(config, 'colour1')
+  // Adding color options to the folder
+  if (coloursFolder) {
+    coloursFolder.addColor(config, 'colour1');
+    coloursFolder.addColor(config, 'colour2');
+    coloursFolder.addColor(config, 'colour3');
+    coloursFolder.addColor(config, 'colour4');
+  }
+  coloursFolder.addColor(config, 'colour1')
   .name('Colour 1')
   .onChange((colour) => setNodeColour(0, colour));
 
@@ -109,3 +117,4 @@ coloursFolder.addColor(config, 'colour3')
 coloursFolder.addColor(config, 'colour4')
   .name('Colour 4')
   .onChange((colour) => setNodeColour(3, colour));
+}
