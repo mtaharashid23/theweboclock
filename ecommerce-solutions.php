@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "E-Commerce Solution | Westgreensolutionsllc";
+<?php $title = "E-Commerce Solution | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">E-Commerce <br>Websites Solutions</h1>
-                <p>Westgreensolutionsllc produces custom E-Commerce websites that are suited to the needs of
+                <p>The Web O’Clock produces custom E-Commerce websites that are suited to the needs of
                     corporations and their unique goods and services. </p>
                 <!-- banner-form -->
                 <?php include 'include/banner-form.php'; ?>
@@ -30,7 +30,7 @@ include 'include/header.php'; ?>
                     Growing Your Business Online</h2>
                 <p>The basis of your online business is an E-Commerce Site. It must have reliable functioning, an
                     excellent user experience, intuitive category browsing, informational and attractive product
-                    descriptions.Furthermore, a simple way to make requests and complete transactions, Westgreensolutionsllc
+                    descriptions.Furthermore, a simple way to make requests and complete transactions, The Web O’Clock
                     recognizes the value of these characteristics, as well as the innovation required to
                     make them a viable way of maximizing profits.</p>
                 <div class="ctaGroup">
@@ -48,7 +48,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>
@@ -101,7 +101,7 @@ include 'include/header.php'; ?>
                 <div class="col-md-4">
                     <div class="tehnology-text">
                         <h2>WordPress</h2>
-                        <p>Westgreensolutionsllc has WordPress, a content management system (CMS) that allows us to host
+                        <p>The Web O’Clock has WordPress, a content management system (CMS) that allows us to host
                             and build websites. Our motive is to deliver our clients the best services.</p>
                     </div>
                 </div>
@@ -151,9 +151,9 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12 mb-4">
-                <h2 class="section-heading gradient-heading text-center">Westgreensolutionsllc all in one solution for
+                <h2 class="section-heading gradient-heading text-center">The Web O’Clock all in one solution for
                     E-commerce Websites</h2>
-                <p class="text-center">Westgreensolutionsllc is a leading e-commerce website development firm based in the
+                <p class="text-center">The Web O’Clock is a leading e-commerce website development firm based in the
                     United States. We are professionals in the development of a wide range of E-Commerce web
                     solutions at affordable prices. </p>
             </div>

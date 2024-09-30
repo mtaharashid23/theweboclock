@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Terms & Conditions | Westgreensolutionsllc";
+<?php $title = "Terms & Conditions | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                 <ul>
                     <li>
                         <p>1. If the first design ideas are accepted, or a revision is required, any deposit payments
-                            for a project will not be refunded after delivery unless Westgreensolutionsllc cancels or
+                            for a project will not be refunded after delivery unless The Web O’Clock cancels or
                             terminated your Agreement for a cause other than your violation or non-performance.</p>
                     </li>
                     <li>
@@ -77,12 +77,12 @@ include 'include/header.php'; ?>
                             be considered.</p>
                     </li>
                     <li>
-                        <p>12. Any refund requests should be sent to the customer service department. Westgreensolutionsllc
+                        <p>12. Any refund requests should be sent to the customer service department. The Web O’Clock
                             retains the right to approve or deny your request on an individual case-by-case basis
                             depending on your breach of your user agreement.</p>
                     </li>
                     <li>
-                        <p>13. The return policy for Westgreensolutionsllc / Custom packages will be the same as it is for
+                        <p>13. The return policy for The Web O’Clock / Custom packages will be the same as it is for
                             single products.</p>
                     </li>
                     <li>
@@ -119,10 +119,10 @@ include 'include/header.php'; ?>
                 <p>Request a refund by contacting us using one of the three methods below:</p>
                 <p><a href="tel:+18507538090">850-753-8090 (toll-free)</a></p>
                 <p>Chat in real time</p>
-                <p><a href="mailto:info@westgreensolutionsllc.com">info@westgreensolutionsllc.com</a></p>
+                <p><a href="mailto:info@theweboclock.com">info@theweboclock.com</a></p>
                 <p>We will use our revision procedure to try to fix your issue as soon as possible, or we will email you
                     a refund request approval from our refund department. Your design rights would be gained by
-                    Westgreensolutionsllc after the refund, and you would be unable to show any version of the design supplied by
+                    The Web O’Clock after the refund, and you would be unable to show any version of the design supplied by
                     the
                     firm. Let we also point out that:</p>
                 <p>You accept that the design rights will now be transferred to the firm.</p>
@@ -162,19 +162,19 @@ include 'include/header.php'; ?>
                 <p>We provide 24-hour customer service to answer your inquiries and concerns. You can reach out to us at
                     any time, and we will answer promptly.</p>
                 <h2 class="section-heading-2 gradient-heading">Policy on Communication</h2>
-                <p>YOU acknowledge that Westgreensolutionsllc is not responsible for any contact sent from email addresses
-                    other than those ending in "<a href="mailto:info@westgreensolutionsllc.com">info@westgreensolutionsllc.com</a>" or
-                    any toll-free number not listed on our website. Westgreensolutionsllc cannot be held liable for any
+                <p>YOU acknowledge that The Web O’Clock is not responsible for any contact sent from email addresses
+                    other than those ending in "<a href="mailto:info@theweboclock.com">info@theweboclock.com</a>" or
+                    any toll-free number not listed on our website. The Web O’Clock cannot be held liable for any
                     damages incurred as a result of such contact. We are solely responsible for any contact sent to us
-                    via our own domain name email address(es) or toll-free number (as listed on The Westgreensolutionsllc
+                    via our own domain name email address(es) or toll-free number (as listed on The The Web O’Clock
                     website).</p>
                 <h2 class="section-heading-2 gradient-heading">Information Availability</h2>
-                <p>You may be requested to give some registration data or other information in order to use Westgreensolutionsllc
+                <p>You may be requested to give some registration data or other information in order to use The Web O’Clock
                     services. By accepting these terms and conditions, you agree that any information you give
-                    will be accurate, up to date, and full. Westgreensolutionsllc has the right to reject your access to any
+                    will be accurate, up to date, and full. The Web O’Clock has the right to reject your access to any
                     services or resources, as well as to cancel or suspend your account, if it feels the information,
                     you have given is not valid, current, or full.</p>
-                <p>Westgreensolutionsllc is a PCI DSS certified firm, which means it has permission to retain your credit card
+                <p>The Web O’Clock is a PCI DSS certified firm, which means it has permission to retain your credit card
                     information on file for future purchases.</p>
                 <h2 class="section-heading-2 gradient-heading">Exclusions</h2>
                 <p>The Company will assist the Client with the integration of third-party plugins and APIs, but any

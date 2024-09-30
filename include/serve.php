@@ -11,7 +11,7 @@
                 <div class="serve-box" data-aos="fade-left">
                     <h2 class="section-heading">Industries We Serve</h2>
                     <h6>Globally Developing Concepts.</h6>
-                    <p>Westgreensolutionsllc has a wealth of expertise working with clients in midmarket industries to deliver
+                    <p>The Web O’Clock has a wealth of expertise working with clients in midmarket industries to deliver
                         digital solutions. While we apply best practices to each new project, we also acknowledge and
                         consider each organization's particular needs and objectives.</p>
                     <ul>

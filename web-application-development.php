@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Web Application Development | Westgreensolutionsllc";
+<?php $title = "Web Application Development | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">Web Application Development</h1>
-                <p>Westgreensolutionsllc is a website development firm with almost a decade of expertise creating
+                <p>The Web O’Clock is a website development firm with almost a decade of expertise creating
                     world-class B2B and B2C online apps with an emphasis on providing extraordinary results.</p>
                 <!-- banner-form -->
                 <?php include 'include/banner-form.php'; ?>
@@ -48,7 +48,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>
@@ -63,9 +63,9 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12 mb-4">
-                <h2 class="section-heading gradient-heading text-center">Westgreensolutionsllc all in one solution for
+                <h2 class="section-heading gradient-heading text-center">The Web O’Clock all in one solution for
                     E-commerce Websites</h2>
-                <p class="text-center">Westgreensolutionsllc is a leading e-commerce website development firm based in the
+                <p class="text-center">The Web O’Clock is a leading e-commerce website development firm based in the
                     United States. We are professionals in the development of a wide range of E-Commerce web solutions
                     at
                     affordable prices. </p>

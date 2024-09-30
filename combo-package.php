@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Combo Packages | Westgreensolutionsllc";
+<?php $title = "Combo Packages | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">Combo Packages</h1>
-                <p>Westgreensolutionsllc is digital consultancy helping brands expand and grow with design-oriented
+                <p>The Web O’Clock is digital consultancy helping brands expand and grow with design-oriented
                     solutions. With the perfect blend of concept and strategy, we offer our clients the creativity
                     they need to stand out.</p>
                 <!-- banner-form -->
@@ -31,7 +31,7 @@ include 'include/header.php'; ?>
             <div class="col-12">
                 <h2 class="section-heading gradient-heading text-center">Want to know how to take your business
                     forward?</h2>
-                <p class="text-center">Our expert developers and designers at Westgreensolutionsllc are proficient in
+                <p class="text-center">Our expert developers and designers at The Web O’Clock are proficient in
                     creating solutions that are suitable for a better tomorrow for your business. Contact us today
                     to find how more about how we can help your business reach its goals.</p>
             </div>

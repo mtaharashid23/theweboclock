@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Privacy | Westgreensolutionsllc";
+<?php $title = "Privacy | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,8 +8,8 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">Privacy Policy</h1>
-                <p>Westgreensolutionsllc values its internet user's privacy and considers preserving your privacy and
-                    security to be a top priority. This declaration of Westgreensolutionsllc's privacy policy represents
+                <p>The Web O’Clock values its internet user's privacy and considers preserving your privacy and
+                    security to be a top priority. This declaration of The Web O’Clock's privacy policy represents
                     the fundamental concern about acquiring user's information, as well as the steps taken to assure
                     user's total security and confidentiality.</p>
                 <div class="ctaGroup">
@@ -36,16 +36,16 @@ include 'include/header.php'; ?>
                     most recent user interface needs, based entirely on the essential information acquired and
                     stored from them.</p>
                 <h2 class="section-heading-2 gradient-heading">Personal Information Collected</h2>
-                <p>Westgreensolutionsllc guarantees the user's and especially consumers' extremely personal and private
-                    information with the highest security and privacy with this statement of privacy policy. Westgreensolutionsllc additionally ensures that it does not and will never disclose or sell the personal
+                <p>The Web O’Clock guarantees the user's and especially consumers' extremely personal and private
+                    information with the highest security and privacy with this statement of privacy policy. The Web O’Clock additionally ensures that it does not and will never disclose or sell the personal
                     information of its user's and customers to anyone or in any way through this declaration of
                     privacy policy.</p>
                 <h2 class="section-heading-2 gradient-heading">Usage Of Collected Data</h2>
                 <p>As mentioned above, the exclusive purpose of this page of privacy policy is to exhaustively
                     define and end up sharing the uses of collecting data from customers and user's. This segment
-                    shows the various uses adopted by Westgreensolutionsllc for enhancing user experience of the website.
+                    shows the various uses adopted by The Web O’Clock for enhancing user experience of the website.
                 </p>
-                <p>The design, programming, and quality control divisions of Westgreensolutionsllc are constantly actively
+                <p>The design, programming, and quality control divisions of The Web O’Clock are constantly actively
                     monitoring the site interface and other performance factors.</p>
                 <h2 class="section-heading-2 gradient-heading">Newsletter Opt-out</h2>
                 <p>You can opt-out of getting our newsletter and promotional messages by following the instructions
@@ -59,10 +59,10 @@ include 'include/header.php'; ?>
                     by a 3rd person or on our Service directly. The privacy policies of the companies that offer
                     these features govern your transactions with them.</p>
                 <h2 class="section-heading-2 gradient-heading">Sharing with a third party</h2>
-                <p>Similarly, to all other basic info, Westgreensolutionsllc focuses and places a high value on wanting to
+                <p>Similarly, to all other basic info, The Web O’Clock focuses and places a high value on wanting to
                     share the congregated data with third parties solely for the purpose of sustaining and enhancing
                     the website user's experience.</p>
-                <p>Any material exchanged with other parties is done only based on a contract between Westgreensolutionsllc and the appropriate third parties, and none of the third parties are permitted or
+                <p>Any material exchanged with other parties is done only based on a contract between The Web O’Clock and the appropriate third parties, and none of the third parties are permitted or
                     authorized to release important knowledge with anyone else, in any way, for any reason.</p>
                 <h2 class="section-heading-2 gradient-heading">How Do We Keep Your Information Safe?</h2>
                 <p>We value the security of personal information. When you submit private information as part of
@@ -141,7 +141,7 @@ include 'include/header.php'; ?>
                     judicial order, or legal demand served on our Web site.</p>
                 <h2 class="section-heading-2 gradient-heading">Questions</h2>
                 <p>Call our toll-free number (<a href="tel:+18507538090">850-753-8090</a>) or contact us at <a
-                        href="mailto:info@westgreensolutionsllc.com">info@westgreensolutionsllc.com</a> if you have any concerns
+                        href="mailto:info@theweboclock.com">info@theweboclock.com</a> if you have any concerns
                     about our Privacy Policy or how we utilise your information.</p>
             </div>
         </div>

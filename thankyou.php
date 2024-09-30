@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Thank You | Westgreensolutionsllc";
+<?php $title = "Thank You | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <style>

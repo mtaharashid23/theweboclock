@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Branding | Westgreensolutionsllc";
+<?php $title = "Branding | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-6">
                 <h1 class="section-heading gradient-heading">Branding</h1>
-                <p>Westgreensolutionsllc will create a branding personality for you that speaks clearly and distinguishes
+                <p>The Web O’Clock will create a branding personality for you that speaks clearly and distinguishes
                     you from the competition. It is something you can sense, feel, and understand.</p>
                 <!-- banner-form -->
                 <?php include 'include/banner-form.php'; ?>

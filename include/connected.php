@@ -55,7 +55,7 @@
                             </div>
                             <div class="content">
                                 <h6>Email</h6>
-                                <p><a href="mailto:info@westgreensolutionsllc.com"> info@westgreensolutionsllc.com</a></p>
+                                <p><a href="mailto:info@theweboclock.com"> info@theweboclock.com</a></p>
                             </div>
                         </li>
                         <li>
@@ -64,8 +64,7 @@
                             </div>
                             <div class="content">
                                 <h6>Address</h6>
-                                <p><a href="#"> 13100 W BELFORT AVE APT 538
-Houston, TX 77099 USA</a></p>
+                                <p><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA" target="_blank"> 173 E Price Rd, Brownsville, TX 78521, United States</a></p>
                                 <p><a href="#"></a></p>
                             </div>
                         </li>

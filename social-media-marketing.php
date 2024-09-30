@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Social Media Marketing | Westgreensolutionsllc";
+<?php $title = "Social Media Marketing | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">Social Media Marketing</h1>
-                <p>Westgreensolutionsllc Professionals in Social Media Marketing services can help you improve your
+                <p>The Web O’Clock Professionals in Social Media Marketing services can help you improve your
                     social media presence. </p>
                 <!-- banner-form -->
                 <?php include 'include/banner-form.php'; ?>
@@ -26,9 +26,9 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">Westgreensolutionsllc, Your Only SMM Solution</h2>
+                <h2 class="section-heading gradient-heading">The Web O’Clock, Your Only SMM Solution</h2>
                 <p>Improve brand awareness and recommendations by growing your brand's social media following.
-                    Westgreensolutionsllc social media marketing services help you gain more followers from the
+                    The Web O’Clock social media marketing services help you gain more followers from the
                     appropriate people. </p>
                 <p>We boost the number of visitors to your website, which has a direct impact on the number of leads
                     and sales you generate.</p>
@@ -46,7 +46,7 @@ include 'include/header.php'; ?>
         <div class="row">
             <div class="col-12 cutom-margin-mb-50">
                 <h2 class="section-heading gradient-heading text-center">Our Distinctive SMM Services</h2>
-                <p class="text-center">Social media marketing is provided by Westgreensolutionsllc Social Media
+                <p class="text-center">Social media marketing is provided by The Web O’Clock Social Media
                     Marketing Agency for small businesses, enterprises, and multi-national firms. We use Powerful
                     Social Media platforms like Twitter, Facebook, Instagram, Pinterest, and many more to flow
                     traffic on your website. </p>

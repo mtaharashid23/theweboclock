@@ -57,10 +57,9 @@
                 <div class="footer-links full-option">
                     <h6>About</h6>
                     <ul>
-                        <li><a href="mailto:info@westgreensolutionsllc.com">info@westgreensolutionsllc.com</a>
+                        <li><a href="mailto:info@theweboclock.com">info@theweboclock.com</a>
                         <li><a href="tel:+18507538090">850-753-8090</a>
-                        <li><a href="javascript:void(0)">13100 W BELFORT AVE APT 538
-Houston, TX 77099 USA</a></li>
+                        <li><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA">173 E Price Rd, Brownsville, TX 78521, United States</a></li>
                     </ul>
                 </div>
             </div>
@@ -70,7 +69,7 @@ Houston, TX 77099 USA</a></li>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="copyright-text text-left">© Westgreensolutionsllc . All Rights Reserved.
+                    <p class="copyright-text text-left">© The Web O’Clock . All Rights Reserved.
 
                 </div>
                 <div class="col-md-6">

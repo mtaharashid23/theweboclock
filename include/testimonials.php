@@ -17,7 +17,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <p>
-                                Our experience working with Westgreensolutionsllc has been excellent. They designed and
+                                Our experience working with The Web O’Clock has been excellent. They designed and
                                 redeveloped a website for this project, paying particular attention to the UX,
                                 professionalism, and flow of the many selling points. They worked closely with
                                 me throughout the process to discuss the specifications and enhance website
@@ -63,7 +63,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <p>
-                                Among other things, Westgreensolutionsllc created my website, a multipurpose health and
+                                Among other things, The Web O’Clock created my website, a multipurpose health and
                                 safety website, and a real estate website with a content management system. Web
                                 Crafters has taken care of everything, from planning to testing and
                                 improvements.

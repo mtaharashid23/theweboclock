@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Website Design Development | Westgreensolutionsllc";
+<?php $title = "Website Design Development | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -26,9 +26,9 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">Westgreensolutionsllc provides all-in-one Web Design and
+                <h2 class="section-heading gradient-heading">The Web O’Clock provides all-in-one Web Design and
                     Development services</h2>
-                <p>Westgreensolutionsllc web design services are an ideal method to strengthen your brand presence and
+                <p>The Web O’Clock web design services are an ideal method to strengthen your brand presence and
                     expand your business. We provide exceptional web design services, and we want to make certain
                     that you get the website according to your demand. Quality web design will help your firm
                     compete online by providing clients with the information they require about your business.</p>
@@ -47,7 +47,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>
@@ -117,7 +117,7 @@ include 'include/header.php'; ?>
                     <div class="tehnology-text">
                         <h2>CSS 3</h2>
                         <p>Cascading Style Sheets Level 3 (CSS3) is the iteration of the CSS standard used in the
-                            styling and formatting of Web pages. At Westgreensolutionsllc, we assist our clients with
+                            styling and formatting of Web pages. At The Web O’Clock, we assist our clients with
                             secured web apps.</p>
                     </div>
                 </div>
@@ -155,7 +155,7 @@ include 'include/header.php'; ?>
             <div class="col-12 mb-4">
                 <h2 class="section-heading gradient-heading text-center">Want to know how to take your business
                     forward?</h2>
-                <p class="text-center">Our expert developers and designers at Westgreensolutionsllc are proficient in
+                <p class="text-center">Our expert developers and designers at The Web O’Clock are proficient in
                     creating solutions that are suitable for a better tomorrow for <br> your business. Contact us
                     today to find how more about how we can help your business reach its goals.</p>
             </div>

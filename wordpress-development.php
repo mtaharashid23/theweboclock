@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Wordpress Development | Westgreensolutionsllc";
+<?php $title = "Wordpress Development | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">Westgreensolutionsllc Provides Customized WordPress
+                <h2 class="section-heading gradient-heading">The Web O’Clock Provides Customized WordPress
                     Development Services.</h2>
                 <p>We have assisted agencies across the globe with WordPress web development services, resulting in
                     the delivery of 250+ projects monthly. With our WordPress Development Services, we understand
@@ -47,7 +47,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>

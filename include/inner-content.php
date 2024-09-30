@@ -4,7 +4,7 @@
             <div class="col-md-6">
                 <h2><span>Examining </span>our work</h2>
                 <p>
-                    Westgreensolutionsllc is a reputable website development firm that provides high-performance,
+                    The Web O’Clock is a reputable website development firm that provides high-performance,
                     holistic, and custom web development services to ensure that your company stands out among
                     rivals. To guarantee high customer satisfaction and optimum ROI, we create customizable,
                     seamless, highly interactive, mobile-friendly, and contribute generation-oriented websites.

@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Contact | Westgreensolutionsllc";
+<?php $title = "Contact | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -20,15 +20,16 @@ include 'include/header.php'; ?>
                 </div>
             </div>
         </div>
-    </div>    
+    </div>
 </section>
 <!-- connected -->
 <?php include 'include/connected.php'; ?>
 <!-- map -->
 <section class="map">
     <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3546.421683440603!2d-82.46487368547149!3d27.268661451241254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c346ba12f02b5f%3A0x61e49e6444544a21!2s5342%20Clark%20Rd%2C%20Sarasota%2C%20FL%2034233%2C%20USA!5e0!3m2!1sen!2s!4v1647374291072!5m2!1sen!2s"
-        width="100%" height="750" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60435.30247275169!2d-98.1759595!3d18.7889527!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866f95e5ebdfbf3b%3A0x912e40ff555368cf!2sThe%20Webo%20Clock!5e0!3m2!1sen!2s!4v1727722135047!5m2!1sen!2s"
+        width="100%" height="750" style="border:0;" allowfullscreen=""
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 
 

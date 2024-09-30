@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Mobile App Development | Westgreensolutionsllc";
+<?php $title = "Mobile App Development | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -27,7 +27,7 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">The Westgreensolutionsllc approach of providing Mobile App
+                <h2 class="section-heading gradient-heading">The The Web O’Clock approach of providing Mobile App
                     services</h2>
                 <p>Our design methodology is the same whether you are a small business, a startup, or a large
                     corporation wanting to create a mobile app. We turn your ideas into popular mobile applications
@@ -52,7 +52,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>

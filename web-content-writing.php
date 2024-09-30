@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Web Content Writing | Westgreensolutionsllc";
+<?php $title = "Web Content Writing | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -47,7 +47,7 @@ include 'include/header.php'; ?>
                 <h2 class="section-heading gradient-heading text-center">Quality Content Writing that Flow
                     profitability</h2>
                 <p class="text-center">Content Writing is unquestionably an essential component of any internet
-                    strategy. As a result, when you work with Westgreensolutionsllc, you'll obtain material that's
+                    strategy. As a result, when you work with The Web O’Clock, you'll obtain material that's
                     optimized for both search engines and site visitors.</p>
             </div>
         </div>

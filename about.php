@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "About | Westgreensolutionsllc";
+<?php $title = "About | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- bannerSec -->
@@ -41,7 +41,7 @@ include 'include/header.php'; ?>
                 <h2 class="section-heading gradient-heading">A team of proficient and creatively efficient
                     individuals.</h2>
                 <p class="mb-4">
-                    Westgreensolutionsllc is a leading IT Development and outsourcing company, we are oneclass="mb-5" stop
+                    The Web O’Clock is a leading IT Development and outsourcing company, we are oneclass="mb-5" stop
                     for Logo Design, Website Design, Mobile Application Development, Search Engine Optimization,
                     Content Writing, Social Media Marketing, Video Animation. We develop unique plans for each of
                     our customers based on their specific demands and objectives.
@@ -76,7 +76,7 @@ include 'include/header.php'; ?>
                     corporation's core principles are product quality, accessibility, originality, collaboration,
                     and progress, and they continue to honor who we are, how we operate, and what we aim for.</p>
                 <h2 class="section-heading-2 gradient-heading">Diversity and Equality represents our team</h2>
-                <p>Westgreensolutionsllc is a gathering place for innovators to learn, explore, and develop. We are made
+                <p>The Web O’Clock is a gathering place for innovators to learn, explore, and develop. We are made
                     up of fearless and innovative minds from many walks of life. Our open culture helps our clients
                     succeed, and our emphasis on corporation inclusiveness provides a fantastic opportunity for our
                     employees.</p>

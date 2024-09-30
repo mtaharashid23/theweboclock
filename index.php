@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Home | Westgreensolutionsllc";
+<?php $title = "Home | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- bannerSec -->
@@ -58,7 +58,7 @@ include 'include/header.php'; ?>
                         Suppose you are searching for a partner to work with in a long-term and reliable web developer
                         to build a custom website that will represent your business to attract customers and define your
                         unique selling point to pave the way to the top in your industry’s competition. In that case, We
-                        Westgreensolutionsllc are here to provide you with the best web development solution in the USA.
+                        The Web O’Clock are here to provide you with the best web development solution in the USA.
                     </p>
                     <a href="about.php" class="btn btnTheme">About us</a>
                 </div>
@@ -117,7 +117,7 @@ include 'include/header.php'; ?>
                             </figure>
                             <h5> App and Web Development</h5>
                             <p>
-                                Westgreensolutionsllc is a company you can trust with the architecture of impactful,
+                                The Web O’Clock is a company you can trust with the architecture of impactful,
                                 dynamic, and easy-to-use corporate-facing web apps, web portals, and more.
                             </p>
                         </div>
@@ -194,7 +194,7 @@ include 'include/header.php'; ?>
                 <div class="innovative-content">
                     <h4>Our Websites Are<br> Functional And <br>Innovative.</h4>
                     <p>
-                        Westgreensolutionsllc is a reputable website development firm that provides high-performance,
+                        The Web O’Clock is a reputable website development firm that provides high-performance,
                         holistic, and custom web development services to ensure that your company stands out among
                         rivals. To guarantee high customer satisfaction and optimum ROI, we create customizable,
                         seamless, highly interactive, mobile-friendly, and contribute generation-oriented websites.
@@ -250,7 +250,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>
@@ -266,7 +266,7 @@ include 'include/header.php'; ?>
         <div class="row">
             <div class="col-12">
                 <h2 class="section-heading gradient-heading text-center">Our Packages</h2>
-                <p class="text-center">Our expert developers and designers at Westgreensolutionsllc are proficient in
+                <p class="text-center">Our expert developers and designers at The Web O’Clock are proficient in
                     creating solutions that are suitable for a better tomorrow for your business. Contact us today
                     to find how more about how we can help your business reach its goals.</p>
             </div>

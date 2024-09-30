@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Logo Design | Westgreensolutionsllc";
+<?php $title = "Logo Design | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -28,7 +28,7 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">Westgreensolutionsllc's best logos generate feelings that
+                <h2 class="section-heading gradient-heading">The Web O’Clock's best logos generate feelings that
                     transcend beyond reliability.</h2>
                 <p>There are plenty of logo designers available that appear to be doing the same thing, so you
                     need to know what sets us apart from the competition.</p>
@@ -51,7 +51,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>
@@ -67,7 +67,7 @@ include 'include/header.php'; ?>
         <div class="row">
             <div class="col-12 mb-4">
                 <h2 class="section-heading gradient-heading text-center">Our Packages</h2>
-                <p class="text-center">Our expert developers and designers at Westgreensolutionsllc are proficient in
+                <p class="text-center">Our expert developers and designers at The Web O’Clock are proficient in
                     creating solutions that are suitable for a better tomorrow for your business. Contact us today
                     to find how more about how we can help your business reach its goals.</p>
             </div>

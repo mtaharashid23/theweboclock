@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Portfolio | Westgreensolutionsllc";
+<?php $title = "Portfolio | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-7">
                 <h1 class="section-heading gradient-heading">Portfolio</h1>
-                <p>Westgreensolutionsllc is digital consultancy helping brands expand and grow with design-oriented
+                <p>The Web O’Clock is digital consultancy helping brands expand and grow with design-oriented
                     solutions. With the perfect blend of concept and strategy, we offer our clients the creativity
                     they need to stand out.</p>
                 <!-- banner-form -->
@@ -31,7 +31,7 @@ include 'include/header.php'; ?>
             <div class="col-12" data-aos="fade-up">
                 <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                 <p class="paragraph">
-                    Westgreensolutionsllc is a fully functional digital consultancy services that holds the experience to
+                    The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                     offer its customers solutions meeting all their needs.
                 </p>
             </div>

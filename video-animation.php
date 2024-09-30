@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Video Animation | Westgreensolutionsllc";
+<?php $title = "Video Animation | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
@@ -8,7 +8,7 @@ include 'include/header.php'; ?>
         <div class="row align-items-center justify-content-between">
             <div class="col-md-6">
                 <h1 class="section-heading gradient-heading">Video Animation</h1>
-                <p>Your Firm's Video Animation Company. Westgreensolutionsllc is a one-stop shop for achieving all
+                <p>Your Firm's Video Animation Company. The Web O’Clock is a one-stop shop for achieving all
                     your video animation branding goals.</p>
                 <!-- banner-form -->
                 <?php include 'include/banner-form.php'; ?>
@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="section-heading gradient-heading">Westgreensolutionsllc Professional Animation</h2>
+                <h2 class="section-heading gradient-heading">The Web O’Clock Professional Animation</h2>
                 <p>Complete video animation solutions are provided to clients all around the world by a center of
                     highly skilled creative and professional video animators. Allow us to help you achieve your
                     objectives, whether you want to increase customer engagement or experience a greater return on

@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php $title = "Search Engine Optimization | Westgreensolutionsllc";
+<?php $title = "Search Engine Optimization | The Web O’Clock";
 include 'include/header.php'; ?>
 
 <!-- innerBannerSec -->
