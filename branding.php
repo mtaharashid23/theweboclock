@@ -32,7 +32,7 @@ include 'include/header.php'; ?>
                     clearly and sets you out from the competition.</p>
                 <div class="ctaGroup">
                     <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
-                    <a href="tel:+18507538090" class="themeBtn borderBtn">850-753-8090</a>
+                    <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>
         </div>

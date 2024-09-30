@@ -45,5 +45,4 @@
     <link rel="stylesheet" href="css/responsive.css">
 </noscript>
 <!-- Start of The Web O’Clock Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=697fde4d-54a9-4957-8b29-1b487b68cd79"></script>
 <!-- End of The Web O’Clock Zendesk Widget script -->

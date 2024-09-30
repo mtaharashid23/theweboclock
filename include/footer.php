@@ -58,7 +58,7 @@
                     <h6>About</h6>
                     <ul>
                         <li><a href="mailto:info@theweboclock.com">info@theweboclock.com</a>
-                        <li><a href="tel:+18507538090">850-753-8090</a>
+                        <li><a href="tel:+13465023520">346-502-3520</a>
                         <li><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA">173 E Price Rd, Brownsville, TX 78521, United States</a></li>
                     </ul>
                 </div>

@@ -14,7 +14,7 @@ include 'include/header.php'; ?>
                     user's total security and confidentiality.</p>
                 <div class="ctaGroup">
                     <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Get Started</a>
-                    <a href="tel:+18507538090" class="themeBtn borderBtn">850-753-8090</a>
+                    <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>
             <div class="col-lg-5 col-md-4">
@@ -140,7 +140,7 @@ include 'include/header.php'; ?>
                     if we think it's appropriate to defend our rights or to compliance with a regulatory procedure,
                     judicial order, or legal demand served on our Web site.</p>
                 <h2 class="section-heading-2 gradient-heading">Questions</h2>
-                <p>Call our toll-free number (<a href="tel:+18507538090">850-753-8090</a>) or contact us at <a
+                <p>Call our toll-free number (<a href="tel:+13465023520">346-502-3520</a>) or contact us at <a
                         href="mailto:info@theweboclock.com">info@theweboclock.com</a> if you have any concerns
                     about our Privacy Policy or how we utilise your information.</p>
             </div>
