@@ -143,7 +143,8 @@ header.fixed a.navbar-brand img.dark-logo {
   -o-transition: all .4s ease-in-out;
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  justify-content: center
+  justify-content: center;
+  overflow: hidden;
 }
 
 .themeWhite {
@@ -821,7 +822,7 @@ section.serve {
   content: "";
   position: absolute;
   left: 0;
-  background: var(--secondary-color);
+  background: var(--theme-color);
   right: 0;
   width: 100%;
   border: transparent;
@@ -844,7 +845,7 @@ section.serve {
 }
 
 section.testimonials {
-  background: #121212;
+  background: #000000;
   padding-top: 80px;
   padding-bottom: 80px;
   background-size: COVER
@@ -855,7 +856,7 @@ section.testimonials h2 {
   margin-bottom: 20px;
   font-size: 2.9rem;
   font-weight: 700;
-  color: var(--secondary-color);
+  color: #fff;
 }
 
 .testimonials .owl-nav i {
@@ -872,7 +873,7 @@ section.testimonials h2 {
 }
 
 .testimonials .owl-nav i:hover {
-  color: var(--secondary-color);
+  color: var(--theme-color);
 }
 
 .owl-theme .owl-nav {
@@ -1073,7 +1074,7 @@ p.copyright-text {
 
 .copyright {
   padding-top: 20px;
-  background: var(--secondary-color);
+  background: var(--theme-color);
   margin-top: 50px;
   padding-bottom: 15px
 }
@@ -1916,12 +1917,9 @@ div#loader img {
 
 .dropdown-item:focus,
 .dropdown-item:hover {
-  color: #16181b;
+  color: #fff;
   text-decoration: none;
-  background-color: transparent;
-  background: var(--secondary-color);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent
+  background-color: var(--secondary-color);    
 }
 
 .price-box .ftter a {
@@ -2822,7 +2820,7 @@ section.portfolio.inner-portfolio.pricing {
 
 section.technology {
   background-image: -moz-linear-gradient(-123deg, #565656 1%, #141414 100%);
-  background-image: -webkit-linear-gradient(-123deg, #565656 1%, #141414 100%);
+  background-image: -webkit-linear-gradient(-123deg, #858585 1%, #000000 100%);
   background-image: -ms-linear-gradient(-123deg, #565656 1%, #141414 100%);
   padding: 60px 0
 }
@@ -2866,7 +2864,7 @@ section.technology p {
 
 .techno-slider.owl-theme .owl-dots .owl-dot.active span,
 .techno-slider.owl-theme .owl-dots .owl-dot:hover span {
-  background: var(--secondary-color);
+  background: var(--theme-color);
 }
 
 img.banner-trust-pilot {

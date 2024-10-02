@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                 <p>We boost the number of visitors to your website, which has a direct impact on the number of leads
                     and sales you generate.</p>
                 <div class="ctaGroup">
-                    <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                    <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
                     <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>

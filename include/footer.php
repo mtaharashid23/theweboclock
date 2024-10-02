@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <div class="row" data-aos="fade-up">
+        <div class="row">
             <div class="col-md-5 col-lg-3">
                 <div class="footer-info">
                     <a href="index.php" class="footerLogo">                        
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="fldset">
-                                        <button class="themeBtn" type="submit">Connect With Us</button>
+                                        <button class="themeBtn btn btnTheme" type="submit">Connect With Us</button>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">

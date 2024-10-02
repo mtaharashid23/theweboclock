@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                     equity. If you want to beat your company competitors with creative solutions, we can be your
                     ideal support.</p>
                 <div class="ctaGroup">
-                    <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                    <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
                     <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>

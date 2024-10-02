@@ -31,7 +31,7 @@ include 'include/header.php'; ?>
 					firm wants to be at the peak of Google's search results. We design effective organic and
 					pay-per-click marketing campaigns that are customized to your company's needs and budget.</p>
 				<div class="ctaGroup">
-					<a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+					<a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
 					<a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
 				</div>
 			</div>

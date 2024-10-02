@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                     that you get the website according to your demand. Quality web design will help your firm
                     compete online by providing clients with the information they require about your business.</p>
                 <div class="ctaGroup">
-                    <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                    <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
                     <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>

@@ -9,7 +9,7 @@
                     rivals. To guarantee high customer satisfaction and optimum ROI, we create customizable,
                     seamless, highly interactive, mobile-friendly, and contribute generation-oriented websites.
                 </p>
-                <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
             </div>
             <div class="col-md-6">
                 <img data-src="images/inner-logo-img.png" alt="inner-logo" class="img-fluid lazy">

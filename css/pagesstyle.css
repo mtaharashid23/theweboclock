@@ -62,6 +62,15 @@ header .contactBtn {
     font-weight: 500;
 }
 
+header .contactBtn:hover {
+    color: var(--secondary-color);
+}
+
+header .navbar-nav .qouteBtn:hover {
+    color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
 .FristBannerHeadeing {
     position: relative;
     z-index: 111111;
@@ -241,7 +250,7 @@ header .contactBtn {
 }
 
 .btnTheme:hover {
-    color: #fff;
+    color: #fff;    
 }
 
 .trustimage {
@@ -464,7 +473,7 @@ img#Inner {
 }
 
 h2.section-heading span {
-    color: var(--secondary-color);
+    color: var(--theme-color);
 }
 
 section.portfolio.pricing p {

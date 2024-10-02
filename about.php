@@ -54,7 +54,7 @@ include 'include/header.php'; ?>
                     leads, and income produced. We understand that achieving these objectives is what propels
                     organizations ahead, and we think that the achievement of our clientele is the finest barometer
                     of our own achievement.</p>
-                <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Get Started</a>
+                <a href="javascript:;" class="themeBtn btn btnTheme" data-toggle="modal" data-target="#customQuote">Get Started</a>
             </div>
         </div>
     </div>

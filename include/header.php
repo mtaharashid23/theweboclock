@@ -11,12 +11,10 @@
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8KVFGC" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- Google Tag Manager (noscript) -->    
     <!-- End Google Tag Manager (noscript) -->
     <!-- header -->
-    <header class="animatable bounceIn" id="header">
+    <header class="" id="header">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-dark">
                 <a class="navbar-brand" href="index.php">                    

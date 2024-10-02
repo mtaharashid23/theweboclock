@@ -28,7 +28,7 @@
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"
                             placeholder="Start writing message here" name="msg"></textarea>
                     </div>
-                    <button type="submit" class="themeBtn">Send Message</button>
+                    <button type="submit" class="themeBtn btn btnTheme">Send Message</button>
                     <div class="error mt-3 alert alert-danger text-left mb-0" style="display: none"></div>
                     <div class="success mt-3 alert alert-success text-left mb-0" style="display: none"></div>
                     <div class="loader" style="display: none">

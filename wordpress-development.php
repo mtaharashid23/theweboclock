@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                     that our quest to create strong solutions and a pleasurable user experience has only just begun.
                     We are constantly updating our WordPress themes to enhance them in the long term.</p>
                 <div class="ctaGroup">
-                    <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                    <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
                     <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>

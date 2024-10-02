@@ -37,7 +37,7 @@ include 'include/header.php'; ?>
                     or take shortcuts. Since a result, partnering with us will ensure that you receive precisely
                     what you want, as you will be at the heart of all we do.</p>
                 <div class="ctaGroup">
-                    <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Chat With Us</a>
+                    <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
                     <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
                 </div>
             </div>
