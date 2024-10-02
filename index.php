@@ -201,9 +201,10 @@ include 'include/header.php'; ?>
                     </p>
                     <div class="formInnovative">
                         <form action="" class="form_submission" method="POST">
-                            <input type="hidden" name="url" value='#'>
-                            <input type="hidden" name="domain" value="#">
-                            <input type="hidden" name="subject" value="#">
+                            <input type="hidden" id="location" name="locationURL" value="https://theweboclock.com/">
+                            <script type="text/javascript">
+                                document.getElementById('location').value = window.location.href;
+                            </script>                    
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Enter Your Name" name="name"
                                     required>

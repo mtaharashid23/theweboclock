@@ -3,9 +3,10 @@
         <div class="Salestextimage">
             <img data-src="images/Cube-images/salevector.png" class="img-fluid lazy" alt="banner-form">
         </div>
-        <input type="hidden" name="url" value='#'>
-        <input type="hidden" name="domain" value="#">
-        <input type="hidden" name="subject" value="#">
+        <input type="hidden" id="location" name="locationURL" value="https://theweboclock.com/">
+        <script type="text/javascript">
+            document.getElementById('location').value = window.location.href;
+        </script>                    
         <div class="row">
             <div class="col-md-4 p-0">
                 <div class="form-group">

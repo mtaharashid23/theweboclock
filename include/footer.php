@@ -92,9 +92,10 @@
                     <div class="ban-form popup-form">
                         <form class="cmxform form_submission" id="popupform" method="POST">
                             <!-- Custom Fields -->
-                            <input type="hidden" name="url" value='#'>
-                            <input type="hidden" name="domain" value="#">
-                            <input type="hidden" name="subject" value="Popup Form (#)">
+                            <input type="hidden" id="location" name="locationURL" value="https://theweboclock.com/">
+                            <script type="text/javascript">
+                                document.getElementById('location').value = window.location.href;
+                            </script>                    
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="fldset">
