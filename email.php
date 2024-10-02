@@ -12,21 +12,26 @@
     $phone = $_POST['phone'];
     $msg = $_POST['msg'];
     $locationURL = $_POST['locationURL'];
-    // $domain = $_POST['domain'];
-    // $subject = $_POST['subject'];
+
     $message = 'Name: '.$name."\r\n";
     $message .= 'Email: '.$email."\r\n";
     $message .= 'Phone: '.$phone."\r\n";
     $message .= 'Message: '.$msg."\r\n";
     $message .= 'Url: '.$locationURL."\r\n";
-    // $message .= 'Domain: '.$domain."\r\n";
-    // $message .= 'subject: '.$subject."\r\n";
-    // Set your email address where you want to receive emails . 
+
+    // Set your email address where you want to receive emails.
     $to = 'info@theweboclock.com';
     $subject = 'Contact Request From Website';
-    $send_email = mail($to,$subject,$message);  
-    echo ($send_email) ? 'success' : 'error';
+    $send_email = mail($to, $subject, $message);
+
+    // Return a JSON response
+    if ($send_email) {
+        echo json_encode(['response' => 'success']);
+    } else {
+        echo json_encode(['response' => 'error']);
+    }
   }
+
   function pricing(){
     $ycompany = $_POST['ycompany'];
     $fname = $_POST['fname'];

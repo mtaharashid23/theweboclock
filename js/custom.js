@@ -69,68 +69,144 @@ $(function () {
         jQuery.validator.addMethod("lettersonly", function (e, t) {
             return this.optional(t) || /^[a-zA-Z\s]+$/i.test(e)
         }, "Invalid Value"), 
+        // $(".form_submission").each(function () {
+        //     $(this).validate({
+        //         rules: {
+        //             name: {
+        //                 required: !0,
+        //                 lettersonly: !0
+        //             },
+        //             email: {
+        //                 email: !0,
+        //                 required: !0
+        //             },
+        //             phone: {
+        //                 required: !0
+        //             },
+        //             msg: {
+        //                 required: !0
+        //             }
+        //         },
+        //         submitHandler: function (e) {
+        //             var t = {},
+        //                 n = $(e).find("[data-name]");
+        //             if (0 != n.length)
+        //                 for (var i = 0; i < n.length; i++) t[$(n[i]).attr("data-name")] = $(n[i]).val();
+        //             $(e).find(".loader").show();
+        //             var a = $(e).find('[name="name"]').val(),
+        //                 o = $(e).find('[name="email"]').val(),
+        //                 l = $(e).find('[name="phone"]').val(),
+        //                 r = $(e).find('[name="msg"]').val(),
+        //                 s = $(e).find('[name="locationURL"]').val();
+        //                 // c = $(e).find('[name="domain"]').val(),
+        //                 // u = $(e).find('[name="subject"]').val();
+        //             $.ajax({
+        //                 type: "POST",
+        //                 url: "email.php?action=form_submission",
+        //                 dataType: "json",
+        //                 data: {
+        //                     name: a,
+        //                     email: o,
+        //                     phone: l,
+        //                     msg: r,
+        //                     locationURL: s,
+        //                     // domain: c,
+        //                     // subject: u,
+        //                     optional: t
+        //                 },
+        //                 success: function (t) {
+        //                     window.location.href = "/thankyou.php?name=" + a.replace(/\s+/g, '-') + "&email=" + o + "&phone=" + l;
+        //                     console.log(t), t.response ? ($(e).trigger("reset"), $(e).find([type = "submit"]).hide(), $(e).find(".success").html("<p>Thank you for filling out your information!</p>"), $(e).find(".success").show()) : $(e).find(".error").html("Error Occurred"), $(e).find(".loader").hide()
+        //                 },
+        //                 error: function (t, n, i) {
+        //                     $(e).find(".error").html("Error Occurred " + i), $(e).find(".loader").hide()
+        //                 }
+        //             })
+        //         }
+        //     })
+        // })
         $(".form_submission").each(function () {
             $(this).validate({
                 rules: {
                     name: {
-                        required: !0,
-                        lettersonly: !0
+                        required: true,
+                        lettersonly: true
                     },
                     email: {
-                        email: !0,
-                        required: !0
+                        email: true,
+                        required: true
                     },
                     phone: {
-                        required: !0
+                        required: true
                     },
                     msg: {
-                        required: !0
+                        required: true
                     }
                 },
-                submitHandler: function (e) {
-                    var t = {},
-                        n = $(e).find("[data-name]");
-                    if (0 != n.length)
-                        for (var i = 0; i < n.length; i++) t[$(n[i]).attr("data-name")] = $(n[i]).val();
-                    $(e).find(".loader").show();
-                    var a = $(e).find('[name="name"]').val(),
-                        o = $(e).find('[name="email"]').val(),
-                        l = $(e).find('[name="phone"]').val(),
-                        r = $(e).find('[name="msg"]').val(),
-                        s = $(e).find('[name="locationURL"]').val();
-                        // c = $(e).find('[name="domain"]').val(),
-                        // u = $(e).find('[name="subject"]').val();
+                submitHandler: function (form) {
+                    var optionalFields = {},
+                        optionalInputs = $(form).find("[data-name]");
+                    
+                    if (optionalInputs.length > 0) {
+                        for (var i = 0; i < optionalInputs.length; i++) {
+                            optionalFields[$(optionalInputs[i]).attr("data-name")] = $(optionalInputs[i]).val();
+                        }
+                    }
+        
+                    $(form).find(".loader").show();
+        
+                    var name = $(form).find('[name="name"]').val(),
+                        email = $(form).find('[name="email"]').val(),
+                        phone = $(form).find('[name="phone"]').val(),
+                        msg = $(form).find('[name="msg"]').val(),
+                        locationURL = $(form).find('[name="locationURL"]').val();
+                        // domain = $(form).find('[name="domain"]').val(),
+                        // subject = $(form).find('[name="subject"]').val();
+        
                     $.ajax({
                         type: "POST",
                         url: "email.php?action=form_submission",
                         dataType: "json",
                         data: {
-                            name: a,
-                            email: o,
-                            phone: l,
-                            msg: r,
-                            locationURL: s,
-                            // domain: c,
-                            // subject: u,
-                            optional: t
+                            name: name,
+                            email: email,
+                            phone: phone,
+                            msg: msg,
+                            locationURL: locationURL,
+                            // domain: domain,
+                            // subject: subject,
+                            optional: optionalFields
                         },
-                        success: function (t) {
-                            window.location.href = "/thankyou.php?name=" + a.replace(/\s+/g, '-') + "&email=" + o + "&phone=" + l;
-                            console.log(t), t.response ? ($(e).trigger("reset"), $(e).find([type = "submit"]).hide(), $(e).find(".success").html("<p>Thank you for filling out your information!</p>"), $(e).find(".success").show()) : $(e).find(".error").html("Error Occurred"), $(e).find(".loader").hide()
+                        success: function (response) {
+                            if (response.response === 'success') {
+                                // Reset form, hide submit button and show success message
+                                $(form).trigger("reset");
+                                $(form).find('[type="submit"]').hide();
+                                $(form).find(".success").html("<p>Thank you for filling out your information!</p>").show();
+        
+                                // Redirect to thank you page
+                                window.location.href = "thankyou.php?name=" + name.replace(/\s+/g, '-') + "&email=" + email + "&phone=" + phone;
+                            } else {
+                                // Show error message
+                                $(form).find(".error").html("Error Occurred").show();
+                            }
+                            $(form).find(".loader").hide();
                         },
-                        error: function (t, n, i) {
-                            $(e).find(".error").html("Error Occurred " + i), $(e).find(".loader").hide()
+                        error: function (xhr, status, error) {
+                            $(form).find(".error").html("Error Occurred: " + error).show();
+                            $(form).find(".loader").hide();
                         }
-                    })
+                    });
                 }
-            })
-        })
+            });
+        });        
     }),
-
+        
     AOS.init({
-        duration: 1e3,
-        delay: 50
-    });
+		duration: 1e3,
+        delay: 50,
+		disable: "mobile",
+	});
 
 $(function () {
     $('.lazy').lazy({
