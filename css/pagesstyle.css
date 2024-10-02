@@ -49,7 +49,7 @@ header .navbar-dark .navbar-nav .nav-link {
     border-color: #fff;
     border-radius: 8px;
     font-weight: 300;
-    padding: 15px 30px;
+    padding: 1em 1.75em;
 }
 
 .contactBtn {
@@ -149,7 +149,7 @@ header .navbar-nav .qouteBtn:hover {
 .btnStarted {
     background: var(--white);
     color: var(--primary-color);
-    padding: 16px 40px;
+    padding: 1em 2.5em;
     font-size: 17px;
     border-radius: 6px;
     font-weight: 500;
@@ -272,13 +272,13 @@ section.WorkSection {}
 }
 
 .Designcontent>span {
-    color: var(--secondary-color);
+    color: #054fb7;
     font-size: 46px;
     font-weight: 600;
 }
 
 .Designcontent h3 span {
-    color: var(--secondary-color);
+    color: #054fb7;
 }
 
 .Designcontent h3 {

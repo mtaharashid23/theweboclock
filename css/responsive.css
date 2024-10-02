@@ -470,6 +470,12 @@ section.portfolio.pricing .container_fluid {
     }
 }
 
+/* @media (min-width: 1200px) {
+    header .container {
+        max-width: 1240px;
+    }
+} */
+
 @media (max-width: 1199.98px) {
     .BannerForm {
         width: 85%
@@ -1012,7 +1018,8 @@ section.portfolio.pricing .container_fluid {
 
     .bannerSec {
         padding: 0 0 1rem;
-        height: 590px
+        height: 590px;
+        background: var(--theme-color);
     }
 
     .BannerVectorimage img {
@@ -1265,9 +1272,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     .serve-left {
-        top: 0;
-        width: 100%;
-        bottom: 0
+        display: none;
     }
 
     .serve-left.aos-init.aos-animate {

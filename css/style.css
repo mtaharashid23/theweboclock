@@ -1,5 +1,5 @@
 body {
-  overflow: hidden
+  overflow: clip;
 }
 
 section.portfolio.pricing .container_fluid {
@@ -2145,7 +2145,7 @@ div#loader img {
 }
 
 html {
-  overflow-x: hidden
+  overflow-x: clip;
 }
 
 nav.navbar {
@@ -2783,7 +2783,10 @@ img.icon-4 {
 img.overlay0ne1 {
   position: absolute;
   width: 100%;
-  height: 700px
+  height: 700px;
+  object-fit: cover;
+  object-position: center center;
+  border-radius: 3.125rem;
 }
 
 section.WorkSection figure.aos-init.aos-animate {
@@ -2916,4 +2919,11 @@ li.heading:before {
 .light-logo,
 .footerLogo {
   filter: brightness(0) invert(1);
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  overflow: clip;
 }

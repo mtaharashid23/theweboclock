@@ -49,8 +49,7 @@ include 'include/header.php'; ?>
                     monitoring the site interface and other performance factors.</p>
                 <h2 class="section-heading-2 gradient-heading">Newsletter Opt-out</h2>
                 <p>You can opt-out of getting our newsletter and promotional messages by following the instructions
-                    provided in each newsletter or communication, or by contacting us at or phoning us at +1 888 810
-                    0680.</p>
+                    provided in each newsletter or communication, or by contacting us at or phoning us at <a href="tel:+13465023520">346-502-3520</a>.</p>
                 <h2 class="section-heading-2 gradient-heading">Social Media Widgets</h2>
                 <p>Plugins for social media, such as the Facebook Like button, and widgets, such as the Share This
                     button or engaging micro that run on our website, are available on the Internet. These features
