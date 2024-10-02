@@ -470,11 +470,11 @@ section.portfolio.pricing .container_fluid {
     }
 }
 
-/* @media (min-width: 1200px) {
+@media (min-width: 1200px) {
     header .container {
-        max-width: 1240px;
+        max-width: 1440px;
     }
-} */
+}
 
 @media (max-width: 1199.98px) {
     .BannerForm {
@@ -928,6 +928,15 @@ section.portfolio.pricing .container_fluid {
         animation: rotateElement 6s infinite linear;
         width: 100px
     }
+    .navbar-brand {
+        margin: 0;
+    }
+    .dedicatedtext img {
+        width: 80px;
+    }
+    div#myTabContent {
+        padding: 0;        
+    }
 }
 
 @media (max-width: 991.98px) {
@@ -1333,6 +1342,9 @@ section.portfolio.pricing .container_fluid {
 }
 
 @media (max-width: 767.98px) {
+    .navbar-brand {        
+        width: 200px;
+    }
     section.bannerSec.innerBannerSec form.form_submission {
         width: auto
     }
@@ -1635,6 +1647,9 @@ section.portfolio.pricing .container_fluid {
 
     section.map iframe {
         height: 200px
+    }
+    .dedicatedtext img {
+        width: 50px;
     }
 }
 

@@ -2,7 +2,6 @@
 <?php $title = "Home | The Web O’Clock";
 include 'include/header.php'; ?>
 
-<main class="main">
     <!-- bannerSec -->
     <section class="bannerSec homeBannerSec">
         <div class="container">
@@ -369,7 +368,6 @@ include 'include/header.php'; ?>
     <?php include 'include/testimonials.php'; ?>
     <!-- connected -->
     <?php include 'include/connected.php'; ?>
-</main>
 
 <!-- Footer -->
 <?php include 'include/footer.php'; ?>
