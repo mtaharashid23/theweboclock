@@ -18,7 +18,7 @@
     <header class="" id="header">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-dark">
-                <a class="navbar-brand" href="index.php">                    
+                <a class="navbar-brand" href="/">                    
                     <img src="images/Cube-images/headerlogo.png" class="img-fluid light-logo" alt="Logo" />
                     <img src="images/Cube-images/headerlogo.png" class="img-fluid dark-logo" alt="Logo" />
                 </a>
@@ -32,35 +32,35 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavId">
                     <ul class="navbar-nav mx-md-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link" href="/">Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Services</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="logo-design.php">Logo Design</a>
-                                <a class="dropdown-item" href="website-design-development.php">Website Design &
+                                <a class="dropdown-item" href="logo-design">Logo Design</a>
+                                <a class="dropdown-item" href="website-design-development">Website Design &
                                     Development</a>
-                                <a class="dropdown-item" href="wordpress-development.php">Wordpress Development</a>
-                                <a class="dropdown-item" href="ecommerce-solutions.php">Ecommerce Solutions</a>
-                                <a class="dropdown-item" href="web-application-development.php">Web Application
+                                <a class="dropdown-item" href="wordpress-development">Wordpress Development</a>
+                                <a class="dropdown-item" href="ecommerce-solutions">Ecommerce Solutions</a>
+                                <a class="dropdown-item" href="web-application-development">Web Application
                                     Development</a>
-                                <a class="dropdown-item" href="mobile-app-development.php">Mobile App
+                                <a class="dropdown-item" href="mobile-app-development">Mobile App
                                     Development</a>
-                                <a class="dropdown-item" href="branding.php">Branding</a>
-                                <a class="dropdown-item" href="video-animation.php">Video Animation</a>
-                                <a class="dropdown-item" href="search-engine-optimization.php">Search Engine
+                                <a class="dropdown-item" href="branding">Branding</a>
+                                <a class="dropdown-item" href="video-animation">Video Animation</a>
+                                <a class="dropdown-item" href="search-engine-optimization">Search Engine
                                     Optimization</a>
-                                <a class="dropdown-item" href="web-content-writing.php">Web Content Writing</a>
-                                <a class="dropdown-item" href="social-media-marketing.php">Social Media
+                                <a class="dropdown-item" href="web-content-writing">Web Content Writing</a>
+                                <a class="dropdown-item" href="social-media-marketing">Social Media
                                     Marketing</a>
                             </div>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="packages.php">Packages</a></li>
-                        <li class="nav-item"><a class="nav-link" href="combo-package.php">Combo Packages</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="packages">Packages</a></li>
+                        <li class="nav-item"><a class="nav-link" href="combo-package">Combo Packages</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
                     </ul>
                     <ul class="navbar-nav navbar-right ml-md-auto">
                         <li class="nav-item">

@@ -64,14 +64,14 @@ include 'include/header.php'; ?>
 </style>
 <section class="thankyou-banner">
     <div class="container">
-        <a href="index.php" class="logo-thankyou">
+        <a href="/" class="logo-thankyou">
             <img src="images/Cube-images/headerlogo.png" alt="headerlogo" class="img-fluid">
         </a>
         <h1>Thank You for showing <br><span>confidence in our ability to deliver.</span></h1>
         <p>Delivering robust digital solutions to businesses globally;<br>infusing bold ideas with utmost commitment.</p>
         <a href="javascript:;" class="live-chat-thank chat" onclick="setButtonURL();">Let’s Chat</a>
         <div class="clearfix"></div>
-        <a href="index.php" class="back-home">
+        <a href="/" class="back-home">
             <img src="images/back-home.png" alt="back-home" class="img-fluid">
         </a>
     </div>

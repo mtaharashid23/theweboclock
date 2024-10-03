@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-5 col-lg-3">
                 <div class="footer-info">
-                    <a href="index.php" class="footerLogo">                        
+                    <a href="/" class="footerLogo">                        
                         <img data-src="images/Cube-images/headerlogo.png" alt="Footer Logo" class="img-fluid lazy">
                     </a>
                     <p>We produce high quality code by following best practices laid out by industry giants and
@@ -23,19 +23,19 @@
                     <h6>Service</h6>
                     <div class="footer-links-ul">
                         <ul>
-                            <li><a href="logo-design.php">Logo Design</a></li>
-                            <li><a href="website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="wordpress-development.php">Wordpress Development</a></li>
-                            <li><a href="ecommerce-solutions.php">Ecommerce Solutions</a></li>
-                            <li><a href="web-application-development.php">Web Application Development</a></li>
+                            <li><a href="logo-design">Logo Design</a></li>
+                            <li><a href="website-design-development">Website Design & Development</a></li>
+                            <li><a href="wordpress-development">Wordpress Development</a></li>
+                            <li><a href="ecommerce-solutions">Ecommerce Solutions</a></li>
+                            <li><a href="web-application-development">Web Application Development</a></li>
                         </ul>
                         <ul>
-                            <li><a href="mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="branding.php">Branding</a></li>
-                            <li><a href="video-animation.php">Video Animation</a></li>
-                            <li><a href="search-engine-optimization.php">Search Engine Optimization</a></li>
-                            <li><a href="web-content-writing.php">Web Content Writing</a></li>
-                            <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+                            <li><a href="mobile-app-development">Mobile App Development</a></li>
+                            <li><a href="branding">Branding</a></li>
+                            <li><a href="video-animation">Video Animation</a></li>
+                            <li><a href="search-engine-optimization">Search Engine Optimization</a></li>
+                            <li><a href="web-content-writing">Web Content Writing</a></li>
+                            <li><a href="social-media-marketing">Social Media Marketing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -44,12 +44,12 @@
                 <div class="footer-links full-option">
                     <h6>Company</h6>
                     <ul>
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="packages.php">Packages</a></li>
-                        <li><a href="combo-package.php">Combo Packages</a></li>
-                        <li><a href="contact.php">Contact us</a></li>
-                        <li><a href="privacy.php">Privacy Policy</a></li>
-                        <li><a href="terms-condition.php">Terms & Condition</a></li>
+                        <li><a href="about">About Us</a></li>
+                        <li><a href="packages">Packages</a></li>
+                        <li><a href="combo-package">Combo Packages</a></li>
+                        <li><a href="contact">Contact us</a></li>
+                        <li><a href="privacy">Privacy Policy</a></li>
+                        <li><a href="terms-condition">Terms & Condition</a></li>
                     </ul>
                 </div>
             </div>

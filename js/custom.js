@@ -200,7 +200,8 @@ function formSubmissionHandler() {
                             form.querySelector(".success").style.display = "block";
 
                             // Redirect to thank you page
-                            window.location.href = "thankyou.php?name=" + name.replace(/\s+/g, '-') + "&email=" + email + "&phone=" + phone;
+                            // window.location.href = "thankyou.php?name=" + name.replace(/\s+/g, '-') + "&email=" + email + "&phone=" + phone;
+                            window.location.href = "https://theweboclock.com/thankyou";
                         } else {
                             // Show error if response is not 'success'
                             form.querySelector(".error").innerHTML = "Error Occurred";

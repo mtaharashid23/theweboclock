@@ -65,7 +65,7 @@ include 'include/header.php'; ?>
                             case, We
                             The Web O’Clock are here to provide you with the best web development solution in the USA.
                         </p>
-                        <a href="about.php" class="btn btnTheme">About us</a>
+                        <a href="about" class="btn btnTheme">About us</a>
                     </div>
                 </div>
             </div>
