@@ -73,7 +73,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -81,11 +81,10 @@ include 'include/header.php'; ?>
                     <p class="text-center">To keep ahead of the trend, be sure to interact with our video animators. We
                         try to make amazing videos that can clearly reflect your brand, business, or group.</p>
                 </div>
-            </div>
-            <!-- video-pack -->
+            </div>            
             <?php include 'include/video-pack.php'; ?>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

@@ -59,7 +59,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <section class="pricing p-0 mb-0">
+    <!-- <section class="pricing p-0 mb-0">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -69,11 +69,10 @@ include 'include/header.php'; ?>
                         intricacies of each web project individually and delivering highly optimized SEO-smart WordPress
                         systems.</p>
                 </div>
-            </div>
-            <!-- website-pack -->
+            </div>            
             <?php include 'include/website-pack.php'; ?>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

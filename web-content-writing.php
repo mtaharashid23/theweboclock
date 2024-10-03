@@ -151,7 +151,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -160,11 +160,10 @@ include 'include/header.php'; ?>
                     <p class="text-center">Our Content Writer makes sure that your content is according to the SEO and
                         Google keyword, as a result, it will give you a profitable business. </p>
                 </div>
-            </div>
-            <!-- web-content-pack -->
+            </div>            
             <?php include 'include/web-content-pack.php'; ?>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

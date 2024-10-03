@@ -267,7 +267,7 @@ include 'include/header.php'; ?>
     <!-- dedicated -->
     <?php include 'include/dedicated.php'; ?>
     <!-- pricing -->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -317,45 +317,37 @@ include 'include/header.php'; ?>
             <div class="row">
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade col-12 show active" id="option-website-design-development" role="tabpanel"
-                        aria-labelledby="website-design-development-tab">
-                        <!-- website-pack -->
+                        aria-labelledby="website-design-development-tab">                        
                         <?php include 'include/website-pack.php'; ?>
                     </div>
 
                     <div class="tab-pane fade col-12 " id="option-ecommerce-solutions" role="tabpanel"
-                        aria-labelledby="ecommerce-solutions-tab">
-                        <!-- ecommerce-pack -->
+                        aria-labelledby="ecommerce-solutions-tab">                        
                         <?php include 'include/ecommerce-pack.php'; ?>
                     </div>
 
                     <div class="tab-pane fade col-12 " id="option-branding" role="tabpanel"
-                        aria-labelledby="branding-tab">
-                        <!-- branding-pack -->
+                        aria-labelledby="branding-tab">                        
                         <?php include 'include/branding-pack.php'; ?>
                     </div>
                     <div class="tab-pane fade col-12" id="option-video-animation" role="tabpanel"
-                        aria-labelledby="video-animation-tab">
-                        <!-- video-pack -->
+                        aria-labelledby="video-animation-tab">                        
                         <?php include 'include/video-pack.php'; ?>
                     </div>
                     <div class="tab-pane fade col-12 " id="option-search-engine-optimization" role="tabpanel"
-                        aria-labelledby="search-engine-optimization-tab">
-                        <!-- seo-pack -->
+                        aria-labelledby="search-engine-optimization-tab">                        
                         <?php include 'include/seo-pack.php'; ?>
                     </div>
                     <div class="tab-pane fade col-12 " id="option-web-content-writing" role="tabpanel"
-                        aria-labelledby="web-content-writing-tab">
-                        <!-- web-content-pack -->
+                        aria-labelledby="web-content-writing-tab">                        
                         <?php include 'include/web-content-pack.php'; ?>
                     </div>
                     <div class="tab-pane fade col-12 " id="option-logo-design" role="tabpanel"
-                        aria-labelledby="logo-design-tab">
-                        <!-- logo-pack -->
+                        aria-labelledby="logo-design-tab">                        
                         <?php include 'include/logo-pack.php'; ?>
                     </div>
                     <div class="tab-pane fade col-12 " id="option-animated-logo" role="tabpanel"
-                        aria-labelledby="animated-logo-tab">
-                        <!-- animated-logo-pack -->
+                        aria-labelledby="animated-logo-tab">                        
                         <?php include 'include/animated-logo-pack.php'; ?>
                     </div>
                 </div>
@@ -367,7 +359,7 @@ include 'include/header.php'; ?>
         <div class="pricing-circle-bottom">
             <img data-src="images/pricing-circle-bottom.png" alt="pricing-circle-bottom" class="lazy">
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- connected -->

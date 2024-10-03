@@ -47,7 +47,7 @@ include 'include/header.php'; ?>
         </div>
     </section>
     <!-- portfolio pricing -->
-    <section class="portfolio pricing">
+    <!-- <section class="portfolio pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12" data-aos="fade-up">
@@ -61,12 +61,11 @@ include 'include/header.php'; ?>
         </div>
         <div class="container_fluid">
             <div class="row mt-5" id="mobile-application" role="tabpanel"
-                aria-labelledby="mobile-application-tab">
-                <!-- app-portfolio -->
+                aria-labelledby="mobile-application-tab">                
                 <?php include 'include/app-portfolio.php'; ?>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- testimonials -->

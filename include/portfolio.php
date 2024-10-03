@@ -373,7 +373,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/1.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/1.mp4">
+                                <img data-src="images/portfolio/animation/1.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -383,7 +383,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/2.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/2.mp4">
+                                <img data-src="images/portfolio/animation/2.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -393,7 +393,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/3.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/3.mp4">
+                                <img data-src="images/portfolio/animation/3.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -403,7 +403,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/4.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/4.mp4">
+                                <img data-src="images/portfolio/animation/4.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -413,7 +413,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/5.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/5.mp4">
+                                <img data-src="images/portfolio/animation/5.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -423,7 +423,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/6.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/6.mp4">
+                                <img data-src="images/portfolio/animation/6.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -433,7 +433,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/7.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/7.mp4">
+                                <img data-src="images/portfolio/animation/7.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>
@@ -443,7 +443,7 @@
                         <a data-fancybox="port" href="images/portfolio/animation/8.mp4">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
-                                <img data-src="images/portfolio/animation/8.mp4">
+                                <img data-src="images/portfolio/animation/8.jpg" class="lazy">
                             </figure>
                         </a>
                     </div>

@@ -152,7 +152,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -160,11 +160,10 @@ include 'include/header.php'; ?>
                     <p class="text-center">To assist you in getting started with your strategy, our social media
                         marketing experts explain the many components of B2C and B2B social media marketing.</p>
                 </div>
-            </div>
-            <!-- seo-pack -->
+            </div>            
             <?php include 'include/seo-pack.php'; ?>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

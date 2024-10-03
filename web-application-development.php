@@ -60,7 +60,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <section class="pricing mb-0 pb-0">
+    <!-- <section class="pricing mb-0 pb-0">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -71,11 +71,10 @@ include 'include/header.php'; ?>
                         at
                         affordable prices. </p>
                 </div>
-            </div>
-            <!-- ecommerce-pack -->
+            </div>            
             <?php include 'include/ecommerce-pack.php'; ?>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->
