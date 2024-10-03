@@ -1,4 +1,4 @@
-<footer>
+<footer class="footer">
     <div class="container">
         <div class="row">
             <div class="col-md-5 col-lg-3">
@@ -68,11 +68,11 @@
     <div class="copyright">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 col-sm-6">
                     <p class="copyright-text text-left">© The Web O’Clock . All Rights Reserved.
 
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-sm-6">
                     <p class="copyright-text text-right">Privacy | Terms of Use</span></p>
                 </div>
             </div>

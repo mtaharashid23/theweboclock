@@ -409,8 +409,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     footer {
-        padding-top: 50px;
-        padding-bottom: 30px
     }
 
     ul.social li h6 {
@@ -852,8 +850,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     footer {
-        padding-top: 40px;
-        padding-bottom: 20px
     }
 
     .copyright {
@@ -1572,9 +1568,8 @@ section.portfolio.pricing .container_fluid {
         padding-bottom: 10px
     }
 
-    footer {
-        padding-top: 10px;
-        padding-bottom: 10px
+    .footer {
+    padding-top: 2rem;
     }
 
     .footer-info p {
@@ -1650,6 +1645,9 @@ section.portfolio.pricing .container_fluid {
     }
     .dedicatedtext img {
         width: 50px;
+    }
+    .footer-info a img {
+        width: 35%;
     }
 }
 
@@ -2034,6 +2032,14 @@ section.portfolio.pricing .container_fluid {
 
     section.bannerSec.innerBannerSec {
         padding-bottom: 2rem
+    }
+
+    .footer {        
+        position: relative;
+        inset: unset;
+    }
+    .footer-info a img {
+        width: 200px;
     }
 }
 
