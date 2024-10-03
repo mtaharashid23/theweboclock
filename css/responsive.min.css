@@ -42,7 +42,7 @@ section.portfolio.pricing .container_fluid {
 
     section.connected {
         background-image: url(../images/contact-right.png);
-        background-size: 440px;
+        background-size: 300px;
         background-repeat: no-repeat;
         background-position: bottom right
     }
@@ -52,7 +52,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.WorkSection {
-        margin-top: 100px
+        margin: 100px 0;
     }
 
     .DesignSec {
@@ -388,7 +388,8 @@ section.portfolio.pricing .container_fluid {
 
     section.connected {
         padding-top: 50px;
-        padding-bottom: 60px
+        padding-bottom: 60px;
+        background-size: 200px;
     }
 
     .footer-links ul li a {
@@ -1565,7 +1566,8 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.connected {
-        padding-bottom: 10px
+        padding-bottom: 10px;
+        background-image: none;
     }
 
     .footer {
@@ -1648,6 +1650,9 @@ section.portfolio.pricing .container_fluid {
     }
     .footer-info a img {
         width: 35%;
+    }
+    .section.connected {
+        background-image: none;
     }
 }
 

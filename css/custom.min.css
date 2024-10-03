@@ -882,6 +882,10 @@ section.testimonials h2 {
 }
 
 section.connected {
+  background-image: url(../images/contact-right.png);
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
   color: #15131a;
   padding-top: 80px;
   padding-bottom: 80px
@@ -953,8 +957,7 @@ section.connected ul li a {
   font-size: 15px
 }
 
-footer {
-}
+footer {}
 
 .footer-info input {
   height: 64px;
@@ -2135,8 +2138,7 @@ div#loader img {
 
 .home-portfolio-nav {}
 
-.home-portfolio-nav .nav-link {
-}
+.home-portfolio-nav .nav-link {}
 
 html {
   overflow-x: clip;
@@ -2633,8 +2635,7 @@ section.bannerSec.homeBannerSec {
   padding-top: 15px !important
 }
 
-footer {
-}
+footer {}
 
 @keyframes rotateElement {
   from {
@@ -3083,35 +3084,35 @@ header .navbar-nav .qouteBtn:hover {
 
 @-webkit-keyframes movebounce {
   0% {
-      -webkit-transform: translateY(0px);
-      transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   50% {
-      -webkit-transform: translateX(10px);
-      transform: translateX(10px);
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
   }
 
   100% {
-      -webkit-transform: translateX(0px);
-      transform: translateX(0px);
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
   }
 }
 
 @keyframes movebounce {
   0% {
-      -webkit-transform: translateX(0px);
-      transform: translateX(0px);
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
   }
 
   50% {
-      -webkit-transform: translateX(-50px);
-      transform: translateX(-50px);
+    -webkit-transform: translateX(-50px);
+    transform: translateX(-50px);
   }
 
   100% {
-      -webkit-transform: translateX(0px);
-      transform: translateX(0px);
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
   }
 }
 
@@ -3163,7 +3164,7 @@ header .navbar-nav .qouteBtn:hover {
 }
 
 .btnTheme:hover {
-  color: var(--white);    
+  color: var(--white);
 }
 
 .trustimage {
@@ -3178,7 +3179,8 @@ header .navbar-nav .qouteBtn:hover {
   padding-bottom: 5rem;
 }
 
-section.WorkSection {}
+section.WorkSection {
+}
 
 .Designcontent {
   padding-top: 3rem;
@@ -3482,66 +3484,66 @@ ul.socialicons li {
 
 @keyframes moveleftbounce {
   0% {
-      -webkit-transform: translateX(0px);
-      transform: translateX(0px);
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
   }
 
   50% {
-      -webkit-transform: translateX(20px);
-      transform: translateX(20px);
+    -webkit-transform: translateX(20px);
+    transform: translateX(20px);
   }
 
   100% {
-      -webkit-transform: translateX(0px);
-      transform: translateX(0px);
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
   }
 }
 
 @keyframes float {
   0% {
-      transform: translatey(0px);
+    transform: translatey(0px);
   }
 
   50% {
-      transform: translatey(100px);
+    transform: translatey(100px);
   }
 
   100% {
-      transform: translatey(0px);
+    transform: translatey(0px);
   }
 }
 
 @-webkit-keyframes movescale {
   0% {
-      -webkit-transform: scale(0.8);
-      transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
   }
 
   50% {
-      -webkit-transform: scale(1);
-      transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
   }
 
   100% {
-      -webkit-transform: scale(0.8);
-      transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
   }
 }
 
 @keyframes movescale {
   0% {
-      -webkit-transform: scale(0.8);
-      transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
   }
 
   50% {
-      -webkit-transform: scale(1);
-      transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
   }
 
   100% {
-      -webkit-transform: scale(0.8);
-      transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
   }
 }
 
@@ -3577,28 +3579,28 @@ section.WorkSection figure img {
 
 @keyframes animate1 {
   from {
-      transform: scale(1);
+    transform: scale(1);
   }
 
   to {
-      transform: scale(0.7);
+    transform: scale(0.7);
   }
 }
 
 @keyframes animate2 {
   from {
-      transform: scale(1);
+    transform: scale(1);
   }
 
   to {
-      transform: scale(0.4);
+    transform: scale(0.4);
   }
 }
 
 /* new-styling */
 .main-wrapper {
   position: relative;
-  z-index: 1;  
+  z-index: 1;
   overflow: clip;
   background: var(--white);
 }
