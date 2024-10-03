@@ -1,6 +1,6 @@
 <section class="brand-logo-wrapper">
     <div class="container">
-        <div class="row block animatable fadeInDown">
+        <div class="row block">
             <div class="col-md-2 col-lg-2 col-4">
                 <div class="BrandLogosimage">
                     <a href="javascript:void(0)"><img data-src="images/Cube-images/vector1.png" class="img-fluid lazy" alt="logo"></a>

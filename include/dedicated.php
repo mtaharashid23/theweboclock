@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div class="dedicatedtext block animatable bounceInLeft">
+                <div class="dedicatedtext block">
                     <h2>Work with <img data-src="images/Cube-images/favicon.png" class="img-fluid lazy" alt="shaped"> dedicated<br>
                         experts <span> and accelerates</span> your growth</h2>
                 </div>
@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-7">
-                <div class="boostcontent block animatable bounceInLeft">
+                <div class="boostcontent block">
                     <h4>Build a Boast-Worthy Website</h4>
                     <p>
                         Ready to create a website that you can’t wait to show to customers? Let’s talk about where

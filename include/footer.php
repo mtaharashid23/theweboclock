@@ -8,14 +8,14 @@
                     </a>
                     <p>We produce high quality code by following best practices laid out by industry giants and
                         staying up to date on the latest evolution in technology frameworks.</p>
-                    <a class="widget"
+                    <!-- <a class="widget"
                         href="javascript:void(0)">
                         <img style="height: 150px; width: 150px;"
                             src="https://cdn.thumbtackstatic.com/fe-assets-web/media/pages/profile/standard-widgets/pro-svg/orange/2022.svg" />
                         <script
                             src="https://www.thumbtack.com/profile/widgets/scripts/?service_pk=461801698898403334&widget_id=profile">
                         </script>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-md-7 col-lg-5">
