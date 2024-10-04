@@ -44,7 +44,7 @@
                     <ul>
                         <li>
                             <div class="icon">
-                                <i class="fas fa-phone-alt"></i>
+                                <i class="fas fa-phone"></i>
                             </div>
                             <div class="content">
                                 <h6>Phone</h6>
