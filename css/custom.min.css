@@ -753,14 +753,12 @@ section.serve {
 }
 
 .serve-left {
-  position: absolute;
-  left: 0;
   animation: float 9s ease-in-out infinite;
-  width: 50%
+  width: 100%;
 }
 
 .serve-left img {
-  width: 92%;
+  width: 75%;
   margin: 0 auto;
   display: block
 }
@@ -3077,7 +3075,7 @@ header .navbar-nav .qouteBtn:hover {
 .BannerVectorimage img {
   z-index: -25;
   position: relative;
-  width: 720px;
+  width: 580px;
   -webkit-animation: movebounce 10s linear infinite;
   animation: movebounce 10s linear infinite;
 }

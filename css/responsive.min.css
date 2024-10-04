@@ -87,7 +87,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     .serve-left {
-        width: 100%
     }
 
     .col-lg-6.serve-right {
@@ -1377,6 +1376,24 @@ section.portfolio.pricing .container_fluid {
         font-size: 12px;
     }
 
+    .InnovativeSec {
+        height: auto;
+        margin: 2rem 15px;
+    }
+
+    .InnovativeSec::before {
+        content: "";
+        background: #000000db;
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        border-radius: 3.125rem;
+    }
+
+    .InnovativeSec img.overlay0ne1 {
+        height: 100%;
+    }
+
     .testimonials .testiRight {
         margin: 0;
     }
@@ -1748,12 +1765,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     .InnovativeSec {
-        margin-top: 0;
-        padding-top: 33px;
-        height: 660px;
-        background: #010101;
-        margin-bottom: 0;
-        margin: 0
     }
 
     .Overlayimage {
