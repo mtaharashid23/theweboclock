@@ -66,8 +66,7 @@
                             </div>
                             <div class="content">
                                 <h6>Address</h6>
-                                <p><a href="https://maps.app.goo.gl/jcGwZJG3zbRZZuvTA" target="_blank"> 173 E Price Rd,
-                                        Brownsville, TX 78521, United States</a></p>
+                                <p><a href="https://maps.app.goo.gl/2oYCcGS6UstBHBnj8" target="_blank"> 5 S 1st St, Richmond, VA 23219, United States</a></p>
                                 <p><a href="#"></a></p>
                             </div>
                         </li>

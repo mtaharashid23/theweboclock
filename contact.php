@@ -28,9 +28,9 @@ include 'include/header.php'; ?>
     <!-- map -->
     <section class="map">
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60435.30247275169!2d-98.1759595!3d18.7889527!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866f95e5ebdfbf3b%3A0x912e40ff555368cf!2sThe%20Webo%20Clock!5e0!3m2!1sen!2s!4v1727722135047!5m2!1sen!2s"
-            width="100%" height="750" style="border:0;" allowfullscreen=""
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1619739.1244283123!2d-79.8826541!3d37.5420336!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b1119267643467%3A0x7b594532bb6235a0!2sThe%20Web%20O&#39;Clock!5e0!3m2!1sen!2s!4v1728075971734!5m2!1sen!2s"
+            width="100%" height="750" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
     </section>
 </main>
 <!-- Footer -->
