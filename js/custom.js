@@ -88,6 +88,16 @@ function initializeCarousel() {
             }
         });
     });
+    let clientSider = new Swiper('.clientSider', {
+        loop: true,
+        autoplay: true,
+        slidesPerView: 1,
+        spaceBetween: 5,
+        pagination: {
+            el: ".swiper-pagination",
+          },
+        
+    })
 }
 
 function setupPhoneInput() {

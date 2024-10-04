@@ -203,6 +203,24 @@ section.portfolio.pricing .container_fluid {
 }
 
 @media (max-width: 1440px) {
+    html {
+        font-size: 15px;
+    }
+
+    .testimonials .testiLeft,
+    .testimonials .testiRight {
+        padding: 2.5rem;
+    }
+
+    .testimonials .testiRight {
+        margin-left: -2rem;
+    }
+
+    .testimonials .testiRight .clientName h4:before {
+        width: 180px;
+        left: 0;
+    }
+
     header .navbar-dark .navbar-nav .nav-link {
         margin: 0 2px
     }
@@ -409,8 +427,7 @@ section.portfolio.pricing .container_fluid {
         padding-top: 40px
     }
 
-    footer {
-    }
+    footer {}
 
     ul.social li h6 {
         font-size: 1.2em
@@ -476,6 +493,14 @@ section.portfolio.pricing .container_fluid {
 }
 
 @media (max-width: 1199.98px) {
+    html {
+        font-size: 14px;
+    }
+
+    .testimonials .testiRight .clientName h4:before {
+        width: 100px;        
+    }
+
     .BannerForm {
         width: 85%
     }
@@ -803,8 +828,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.testimonials {
-        padding-top: 40px;
-        padding-bottom: 20px
+    padding: 3rem 0;
     }
 
     section.testimonials h2 {
@@ -850,8 +874,7 @@ section.portfolio.pricing .container_fluid {
         height: 175px
     }
 
-    footer {
-    }
+    footer {}
 
     .copyright {
         padding-top: 30px
@@ -925,18 +948,30 @@ section.portfolio.pricing .container_fluid {
         animation: rotateElement 6s infinite linear;
         width: 100px
     }
+
     .navbar-brand {
         margin: 0;
     }
+
     .dedicatedtext img {
         width: 80px;
     }
+
     div#myTabContent {
-        padding: 0;        
+        padding: 0;
     }
 }
 
 @media (max-width: 991.98px) {
+    html {
+        font-size: 13px;
+    }
+
+    section.testimonials h2 {
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+
     .boostimage {
         position: absolute;
         bottom: -32px
@@ -1185,7 +1220,7 @@ section.portfolio.pricing .container_fluid {
         width: 85px;
         height: 85px;
         padding: 10px;
-        margin-bottom: 50px
+        margin: 0 auto 1rem;
     }
 
     .bannerSec h1 {
@@ -1295,7 +1330,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.testimonials {
-        padding-bottom: 10px
     }
 
     section.connected {
@@ -1339,9 +1373,18 @@ section.portfolio.pricing .container_fluid {
 }
 
 @media (max-width: 767.98px) {
-    .navbar-brand {        
+    html {
+        font-size: 12px;
+    }
+
+    .testimonials .testiRight {
+        margin: 0;
+    }
+
+    .navbar-brand {
         width: 200px;
     }
+
     section.bannerSec.innerBannerSec form.form_submission {
         width: auto
     }
@@ -1571,7 +1614,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     .footer {
-    padding-top: 2rem;
+        padding-top: 2rem;
     }
 
     .footer-info p {
@@ -1645,12 +1688,15 @@ section.portfolio.pricing .container_fluid {
     section.map iframe {
         height: 200px
     }
+
     .dedicatedtext img {
         width: 50px;
     }
+
     .footer-info a img {
         width: 35%;
     }
+
     .section.connected {
         background-image: none;
     }
@@ -1955,7 +2001,6 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.testimonials {
-        padding-top: 20px
     }
 
     .multiple-testi .item {
@@ -2039,12 +2084,19 @@ section.portfolio.pricing .container_fluid {
         padding-bottom: 2rem
     }
 
-    .footer {        
+    .footer {
         position: relative;
         inset: unset;
     }
+
     .footer-info a img {
         width: 200px;
+    }
+    section.testimonials h2 {
+        font-size: 2.125rem;        
+    }
+    .testimonials .testiLeft, .testimonials .testiRight {
+        padding: 2rem;
     }
 }
 

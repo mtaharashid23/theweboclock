@@ -846,7 +846,7 @@ section.serve {
 }
 
 section.testimonials {
-  background: #000000;
+  background: #f1f1f1;
   padding-top: 80px;
   padding-bottom: 80px;
   background-size: COVER
@@ -3179,8 +3179,7 @@ header .navbar-nav .qouteBtn:hover {
   padding-bottom: 5rem;
 }
 
-section.WorkSection {
-}
+section.WorkSection {}
 
 .Designcontent {
   padding-top: 3rem;
@@ -3611,4 +3610,72 @@ section.WorkSection figure img {
   left: 0;
   background: var(--black);
   padding-top: 4rem;
+}
+
+.testimonials .testiLeft {
+  padding: 3rem;
+  background-color: var(--black);
+  box-shadow: 0 35px 43px 0 rgba(7, 6, 9, .04);
+  border-radius: 1.25rem;
+}
+
+.testimonials .testiLeft h2 {
+  color: var(--white);
+  text-align: left;
+}
+
+.testimonials .testiRight {
+  background: var(--white);
+  padding: 3rem;
+  margin-top: 3rem;
+  margin-left: -4rem;
+  border-radius: 1.25rem;
+}
+
+.testimonials .testiRight .testiHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--theme-color);
+  text-align: left;
+}
+
+.testimonials .testiRight p {
+  color: var(--black);
+  margin: 1rem 0;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+.testimonials .testiRight .clientName {
+  position: relative;
+}
+
+.testimonials .testiRight .clientName h4 {
+  text-align: right;
+  color: var(--black);
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.testimonials .testiRight .clientName h4:before {
+  width: 200px;
+  top: 13px;
+  left: 6.125rem;
+  position: absolute;
+  background: var(--theme-color);
+  height: 2px;
+  content: '';
+}
+
+.testiRight span {
+  color: #716e6e;
+  font-size: 16px;
+}
+
+.testiRight .rating::before {
+  display: none;
+}
+
+.testiRight .rating i {
+  color: #f6b756;
 }
