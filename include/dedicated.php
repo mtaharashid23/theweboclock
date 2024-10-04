@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div class="dedicatedtext block">
-                    <h2>Work with <img data-src="images/Cube-images/favicon.png" class="img-fluid lazy" alt="shaped"> dedicated<br>
+                <div class="dedicatedtext" data-aos="fade-up">
+                    <h2>Work with <img data-src="images/Cube-images/favicon.png" class="img-fluid lazy" alt="shaped" data-aos="zoom-in"> dedicated<br>
                         experts <span> and accelerates</span> your growth</h2>
                 </div>
             </div>
@@ -16,12 +16,12 @@
         <div class="row">
             <div class="col-lg-6 col-md-7">
                 <div class="boostcontent block">
-                    <h4>Build a Boast-Worthy Website</h4>
-                    <p>
+                    <h4 data-aos="fade-up">Build a Boast-Worthy Website</h4>
+                    <p data-aos="fade-up">
                         Ready to create a website that you can’t wait to show to customers? Let’s talk about where
                         you’ve been, where you are now, and where you want to go next.
                     </p>
-                    <div class="ctaGroup">
+                    <div class="ctaGroup" data-aos="fade-up">
                         <a href="tel:+13465023520" class="themeBtn themeWhite mr-1">346-502-3520</a>
                         <a href="javascript:;" class="themeBtn borderBtn ml-1" onclick="setButtonURL();">Live
                             Chat</a>
@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-5">
-                <div class="boostimage">
+                <div class="boostimage" data-aos="fade-left">
                     <img data-src="images/laptopwomen.png" class="img-fluid lazy" alt="laptop">
                 </div>
             </div>

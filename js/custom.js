@@ -267,4 +267,8 @@ $(function () {
     formSubmissionHandler();
     setupLazyLoading();
     titleChangeOnFocusBlur();
+    AOS.init({
+		duration: 1200,
+		disable: "mobile",
+	});
 });

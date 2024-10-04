@@ -54,9 +54,9 @@ include 'include/header.php'; ?>
                     </figure>
                 </div>
                 <div class="col-lg-7 col-md-7">
-                    <div class="WorkContent" data-aos="fade-left">
-                        <h2><span>We Create Web From Crafting </span>Research & Development</h2>
-                        <p>
+                    <div class="WorkContent">
+                        <h2 data-aos="fade-up"><span>We Create Web From Crafting </span>Research & Development</h2>
+                        <p data-aos="fade-up">
                             Suppose you are searching for a partner to work with in a long-term and reliable web
                             developer
                             to build a custom website that will represent your business to attract customers and define
@@ -65,7 +65,9 @@ include 'include/header.php'; ?>
                             case, We
                             The Web O’Clock are here to provide you with the best web development solution in the USA.
                         </p>
-                        <a href="about" class="btn btnTheme">About us</a>
+                        <div data-aos="fade-up">
+                            <a href="about" class="btn btnTheme">About us</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -77,9 +79,9 @@ include 'include/header.php'; ?>
             <div class="row">
                 <div class="col-lg-5 col-md-5">
                     <div class="Designcontent block">
-                        <span>Design Creatively.</span>
-                        <h3><span>Build Intuitively. </span>Maintain<br>Proactively</h3>
-                        <p>
+                        <span data-aos="fade-up">Design Creatively.</span>
+                        <h3 data-aos="fade-up"><span>Build Intuitively. </span>Maintain<br>Proactively</h3>
+                        <p data-aos="fade-up">
                             Your most visible asset is your website. It has the highest return on investment. Let's
                             upgrade the face of your brand by using any CMS. Our team of skilled web designers will
                             collaborate with you to develop a high-quality, attractive, and effective website that will
@@ -87,36 +89,38 @@ include 'include/header.php'; ?>
                         </p>
                         <div class="designul">
                             <ul class="listidesign">
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i> Creative Professionals</p>
                                 </li>
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i>Digital Natives</p>
                                 </li>
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i>Design Wizards</p>
                                 </li>
                             </ul>
                             <ul class="listidesign">
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i> Branding Gurus</p>
                                 </li>
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i>SEO Nerds</p>
                                 </li>
-                                <li>
+                                <li data-aos="fade-up">
                                     <p><i class="fas fa-check"></i>Digital Storytellers</p>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <a href="javascript:;" data-toggle="modal" data-target="#customQuote" class="themeBtn qouteBtn">
-                        Custom Quote</a>
+                    <div data-aos="fade-up">
+                        <a href="javascript:;" data-toggle="modal" data-target="#customQuote" class="themeBtn qouteBtn">
+                            Custom Quote</a>
+                    </div>
                 </div>
                 <div class="col-lg-7 col-md-7">
                     <div class="BoxdesignMain ">
                         <div class="boxleft">
-                            <div class="BoxInner block">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -126,7 +130,7 @@ include 'include/header.php'; ?>
                                     dynamic, and easy-to-use corporate-facing web apps, web portals, and more.
                                 </p>
                             </div>
-                            <div class="BoxInner block">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new2.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -136,7 +140,7 @@ include 'include/header.php'; ?>
                                     well with their brand oneself.
                                 </p>
                             </div>
-                            <div class="BoxInner block">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new5.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -148,7 +152,7 @@ include 'include/header.php'; ?>
                             </div>
                         </div>
                         <div class="boxright">
-                            <div class="BoxInner">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new3.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -158,7 +162,7 @@ include 'include/header.php'; ?>
                                     solutions with modern agile techniques.
                                 </p>
                             </div>
-                            <div class="BoxInner">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new4.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -168,7 +172,7 @@ include 'include/header.php'; ?>
                                     engagement through ingenious marketing strategies.
                                 </p>
                             </div>
-                            <div class="BoxInner">
+                            <div class="BoxInner" data-aos="zoom-in">
                                 <figure>
                                     <img data-src="images/new6.png" class="img-fluid lazy" alt="new">
                                 </figure>
@@ -185,18 +189,18 @@ include 'include/header.php'; ?>
         </div>
     </section>
     <!-- InnovativeSec -->
-    <section class="InnovativeSec " data-aos="fade-right">
-        <img data-src="images/custom-icon-3.png" class="icon-3 lazy" />
-        <img data-src="images/custom-icon-4.png" class="icon-4 lazy" />
-        <img data-src="images/banner2.jpg" class="overlay0ne1 lazy" alt="banner2">
+    <section class="InnovativeSec">
+        <img data-src="images/custom-icon-3.png" class="icon-3 lazy"/>
+        <img data-src="images/custom-icon-4.png" class="icon-4 lazy"/>
+        <img data-src="images/banner2.jpg" class="overlay0ne1 lazy" alt="banner2" data-aos="fade">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-6">
-                    <div class="Overlayimage ">
+                    <div class="Overlayimage">
                         <img data-src="images/banneroverlay1.png" class="overlay0ne lazy" alt="banneroverlay">
                         <img data-src="images/Shape-11.png" class="overlaytwo lazy" alt="shape">
                     </div>
-                    <div class="innovative-content">
+                    <div class="innovative-content" data-aos="zoom-in">
                         <h4>Our Websites Are<br> Functional And <br>Innovative.</h4>
                         <p>
                             The Web O’Clock is a reputable website development firm that provides high-performance,
@@ -253,9 +257,9 @@ include 'include/header.php'; ?>
     <section class="portfolio pricing">
         <div class="container">
             <div class="row">
-                <div class="col-12" data-aos="fade-up">
-                    <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
-                    <p class="paragraph">
+                <div class="col-12">
+                    <h2 class="section-heading  text-center" data-aos="fade-up">Logos, websites,<span> book covers & more!</span></h2>
+                    <p class="paragraph" data-aos="fade-up">
                         The Web O’Clock is a fully functional digital consultancy services that holds the experience to
                         offer its customers solutions meeting all their needs.
                     </p>

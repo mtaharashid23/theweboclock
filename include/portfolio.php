@@ -1,5 +1,5 @@
 <div class="container">
-    <ul class="nav nav-tabs portfolio-nav mt-4 home-portfolio-nav" id="myTab" role="tablist">
+    <ul class="nav nav-tabs portfolio-nav mt-4 home-portfolio-nav" id="myTab" role="tablist" data-aos="fade-up">
         <li class="nav-item">
             <a class="nav-link active" id="website-design-tab" data-toggle="tab" href="#website-design" role="tab"
                 aria-controls="website-design" aria-selected="true">Website Design</a>
@@ -24,7 +24,7 @@
 </div>
 <div class="container_fluid">
     <div class="row">
-        <div class="tab-content col-12 portfolio-tabs" id="myTabContent">
+        <div class="tab-content col-12 portfolio-tabs" id="myTabContent" data-aos="fade-up">
             <div class="tab-pane justify-content-center fade show active row" id="website-design" role="tabpanel"
                 aria-labelledby="website-design-tab">
                 <div class="col-md">

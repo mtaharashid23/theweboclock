@@ -107,7 +107,7 @@
                 </div>
             </div>
             <div class="col-md-5">
-                <div class="testiRight">
+                <div class="testiRight" data-aos="fade-up">
                     <div class="swiper-container clientSider">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
