@@ -1708,6 +1708,7 @@ section.portfolio.pricing .container_fluid {
 
     .dedicatedtext img {
         width: 50px;
+        margin-top: -.75rem;
     }
 
     .footer-info a img {

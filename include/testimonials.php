@@ -121,7 +121,7 @@
                                     <i class="fa-solid fa-star"></i>
                                 </div>
                                 <p>
-                                    "Interserve transformed our website into a powerful business tool."
+                                    "The Web O’Clock transformed our website into a powerful business tool."
                                 </p>
                                 <div class="clientName">
                                     <h4>Sarah Mitchell</h4>
@@ -189,7 +189,7 @@
                                     <i class="fa-solid fa-star"></i>
                                 </div>
                                 <p>
-                                    "Interserve exceeded our expectations in every way."
+                                    "The Web O’Clock exceeded our expectations in every way."
                                 </p>
                                 <div class="clientName">
                                     <h4>Priss Smith</h4>

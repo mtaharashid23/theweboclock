@@ -4,7 +4,7 @@ include 'include/header.php'; ?>
 
 <main class="main-wrapper">
     <!-- innerBannerSec -->
-    <section class="BrandingBAnner bannerSec innerBannerSec">
+    <section class="BrandingBAnner bannerSec innerBannerSec wordpressbanner">
         <div class="container  big-container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-6">
@@ -18,7 +18,7 @@ include 'include/header.php'; ?>
                 </div>
             </div>
             <div class="Branding-image banner-right big-image">
-                <img data-src="images/branding.png" alt="branding" class="img-fluid lazy">
+                <img data-src="images/logo-designing.png" alt="branding" class="img-fluid lazy">
             </div>
         </div>
     </section>

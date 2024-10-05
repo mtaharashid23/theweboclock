@@ -4,7 +4,7 @@ include 'include/header.php'; ?>
 
 <main class="main-wrapper">
     <!-- innerBannerSec -->
-    <section class="bannerSec innerBannerSec">
+    <section class="bannerSec innerBannerSec wordpressbanner">
         <div class="container big-container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-7">

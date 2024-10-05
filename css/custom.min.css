@@ -2484,7 +2484,8 @@ p.paragraph {
 }
 
 .dedicatedtext img {
-  width: 100px
+  width: 100px;
+  margin-top: -1.5rem;
 }
 
 .dedicatedtext h2 {
@@ -2531,7 +2532,7 @@ p.paragraph {
 }
 
 .ctaGroup.groupnew a+a {
-  background: #d22536
+  background: var(--theme-color);
 }
 
 .Branding-image.banner-right.big-image {
@@ -2810,15 +2811,14 @@ section.portfolio.inner-portfolio.pricing {
 }
 
 section.technology {
-  background-image: -moz-linear-gradient(-123deg, #565656 1%, #141414 100%);
-  background-image: -webkit-linear-gradient(-123deg, #858585 1%, #000000 100%);
-  background-image: -ms-linear-gradient(-123deg, #565656 1%, #141414 100%);
-  padding: 60px 0
+  padding: 60px 0;
+  background: #f1f1f1;
 }
 
 section.technology h2 {
-  color: var(--white);
-  margin-bottom: 15px
+  color: var(--black);
+  margin-bottom: 15px;
+  font-weight: 600;
 }
 
 .tehnology-img img {
@@ -2826,7 +2826,7 @@ section.technology h2 {
 }
 
 section.technology p.paragraph {
-  color: var(--white);
+  color: var(--black);
   width: 100%;
   margin-bottom: 35px
 }
@@ -3676,4 +3676,10 @@ section.WorkSection figure img {
 
 .testiRight .rating i {
   color: #f6b756;
+}
+
+.wordpressbanner .banner-right img {
+  width: auto;
+  display: block;
+  margin: 0 auto;
 }
