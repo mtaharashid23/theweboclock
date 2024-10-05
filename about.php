@@ -83,7 +83,7 @@ include 'include/header.php'; ?>
                         succeed, and our emphasis on corporation inclusiveness provides a fantastic opportunity for our
                         employees.</p>
                 </div>
-                <div class="col-md-6 d-flex about-heading-image">
+                <div class="col-md-6 d-flex about-heading-image align-items-center justify-content-center">
                     <div class="aboutImgs">
                         <img src="images/about-right.png" class="img-fluid" alt="" />
                     </div>
