@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Search Engine Optimization | The Web O’Clock";
+<?php $title = "Expert SEO Services | SEO Agency for Higher Website Rank & Traffic";
+$desc = "Boost your website rank with our professional SEO services. As an expert SEO agency, we deliver tailored solutions to increase traffic, visibility, and online growth.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

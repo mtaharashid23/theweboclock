@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Logo Design | The Web O’Clock";
+<?php $title = "Custom Logo Design at Affordable Prices | Leading Logo Design Company";
+$desc = "Get a professional custom logo design at an affordable price. Stand out with unique, creative branding from our expert logo design company. Satisfaction guaranteed!";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

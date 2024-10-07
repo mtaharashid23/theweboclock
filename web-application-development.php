@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Web Application Development | The Web O’Clock";
+<?php $title = "Web Application Development Services | Website App Development Company";
+$desc ="We offer top-notch web application development services to build custom, scalable solutions. Partner with our expert website app development company for innovative results.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

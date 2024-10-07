@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="VOGbaZ-04OCOUlUpDi8KvH-jkLVLulXe5dIrVooHFz8" />
+    <meta name="description" content="<?php echo isset($desc) ? $desc : 'TheWebOClock offers expert digital consultancy, innovative solutions, and professional website development services to help businesses thrive in the digital age.'; ?>">
     <link rel="shortcut icon" type="image/x-icon" href="images/Cube-images/favicon.png" />
     <?php include 'include/css.php'; ?>
-    <title><?php echo isset($title) ? $title : 'Home';  ?></title>
+    <title><?php echo isset($title) ? $title : 'TheWebOClock | Digital Consultancy, Solutions & Website Development'; ?></title>
 </head>
 
 <body>

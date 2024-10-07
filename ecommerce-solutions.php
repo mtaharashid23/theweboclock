@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "E-Commerce Solution | The Web O’Clock";
+<?php $title = "E-Commerce Website Solutions | Custom E-Commerce Websites & Services";
+$desc = "Get tailored E-Commerce website solutions for your business. We create custom E-Commerce websites with seamless functionality and design to boost your online success.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

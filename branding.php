@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Branding | The Web O’Clock";
+<?php $title = "Expert Branding & Brand Communication | Website Branding Services";
+$desc = "Boost your brand with expert branding, communication strategies, and website branding services. Elevate your digital presence and connect effectively with your audience.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

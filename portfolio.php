@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Portfolio | The Web O’Clock";
+<?php $title = "TheWebOClock | Creative Digital Portfolio for Innovative Solutions";
+$desc = "Explore TheWebOClock portfolio showcasing innovative digital solutions, web design, and creative strategies that elevate brands with cutting-edge technology and vision.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

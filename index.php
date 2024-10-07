@@ -1,6 +1,5 @@
 <!-- Header -->
-<?php $title = "Home | The Web O’Clock";
-include 'include/header.php'; ?>
+<?php include 'include/header.php'; ?>
 
 <main class="main-wrapper">
     <!-- bannerSec -->

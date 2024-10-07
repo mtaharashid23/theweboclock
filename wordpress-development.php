@@ -1,5 +1,6 @@
-<!-- Header -->
-<?php $title = "Wordpress Development | The Web O’Clock";
+
+<?php $title = "WordPress Development Services | Custom WordPress Solutions";
+$desc = "Expert WordPress development services for custom websites, themes, and plugins. Hire skilled developers to create tailored solutions that meet your business needs.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

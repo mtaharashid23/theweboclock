@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Social Media Marketing | The Web O’Clock";
+<?php $title = "Social Media Marketing Services | SMM Solutions for Business Growth";
+$desc = "Boost your brand with expert social media marketing services. Grow engagement, reach, and sales with tailored SMM solutions designed to elevate your online presence.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

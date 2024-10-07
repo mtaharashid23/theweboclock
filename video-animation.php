@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Video Animation | The Web O’Clock";
+<?php $title = "Professional Video Animation Services & Solutions | Expert Animators";
+$desc = "Unlock engaging video animation services tailored to your needs. Our professional animators create stunning, custom animations for businesses looking to stand out.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

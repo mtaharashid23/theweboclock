@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Contact | The Web O’Clock";
+<?php $title = "The Web O'Clock | Stay Connected with the Latest Digital Trends";
+$desc = "Stay up-to-date with The Web O'Clock! Discover the latest in tech, digital trends, and innovative solutions that keep you connected in the ever-evolving digital world.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

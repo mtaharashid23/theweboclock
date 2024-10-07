@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Web Content Writing | The Web O’Clock";
+<?php $title = "Professional Web Content Writing Services | Expert Content Writers";
+$desc = "Get high-quality web content from expert content writers. Our content writing services ensure SEO-optimized, engaging, and tailored content for your business needs.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

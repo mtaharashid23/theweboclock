@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "About | The Web O’Clock";
+<?php $title = "TheWebOClock | Your Source for Digital Solutions and Innovation";
+$desc = "Discover TheWebOClock, where we craft cutting-edge digital solutions. Learn more about our vision, expertise, and commitment to driving your online success.";
 include 'include/header.php'; ?>
 <main class="main-wrapper">
     <!-- bannerSec -->

@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Website Design Development | The Web O’Clock";
+<?php $title = "Website Design & Development | Custom Web Development Services";
+$desc = "Professional website design and development services. Elevate your online presence with custom websites, responsive designs, and powerful web development solutions.";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">

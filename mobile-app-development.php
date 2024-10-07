@@ -1,5 +1,6 @@
 <!-- Header -->
-<?php $title = "Mobile App Development | The Web O’Clock";
+<?php $title = "Customized Mobile Application Development | Expert Mobile App Services";
+$desc = "Get top-notch customized mobile application development from expert developers. We create innovative mobile apps tailored to your business needs. Contact us today!";
 include 'include/header.php'; ?>
 
 <main class="main-wrapper">
