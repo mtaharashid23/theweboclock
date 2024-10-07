@@ -64,7 +64,7 @@
                     </ul>
                     <ul class="navbar-nav navbar-right ml-md-auto">
                         <li class="nav-item">
-                            <a href="tel:+13465023520" class="contactBtn">346-502-3520</a>
+                            <a href="tel:+13465023520" class="contactBtn">+1 (346) 502-3520</a>
                         </li>
                         <li class="nav-item">
                             <a href="javascript:;" class="themeBtn qouteBtn" data-toggle="modal"

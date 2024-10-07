@@ -34,7 +34,7 @@ include 'include/header.php'; ?>
                         or want to scale it, our team can help.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
-                        <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
+                        <a href="tel:+13465023520" class="themeBtn borderBtn">+1 (346) 502-3520</a>
                     </div>
                 </div>
             </div>
@@ -141,7 +141,7 @@ include 'include/header.php'; ?>
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="ctaGroup groupnew mt-4">
-                        <a href="tel:+13465023520" class="themeBtn mr-2">346-502-3520</a>
+                        <a href="tel:+13465023520" class="themeBtn mr-2">+1 (346) 502-3520</a>
                         <a href="javascript:;" class="themeBtn borderBtn ml-2" onclick="setButtonURL();">Live Chat</a>
                     </div>
                 </div>

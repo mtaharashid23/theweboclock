@@ -58,7 +58,7 @@
                     <h6>About</h6>
                     <ul>
                         <li><a href="mailto:info@theweboclock.com">info@theweboclock.com</a>
-                        <li><a href="tel:+13465023520">346-502-3520</a>
+                        <li><a href="tel:+13465023520">+1 (346) 502-3520</a>
                         <li><a href="https://maps.app.goo.gl/2oYCcGS6UstBHBnj8">5 S 1st St, Richmond, VA 23219, United States</a></li>
                     </ul>
                 </div>

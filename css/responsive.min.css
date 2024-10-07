@@ -86,8 +86,7 @@ section.portfolio.pricing .container_fluid {
         line-height: 55px
     }
 
-    .serve-left {
-    }
+    .serve-left {}
 
     .col-lg-6.serve-right {
         padding: 30px 100px 0 0
@@ -497,7 +496,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     .testimonials .testiRight .clientName h4:before {
-        width: 100px;        
+        width: 100px;
     }
 
     .BannerForm {
@@ -827,7 +826,7 @@ section.portfolio.pricing .container_fluid {
     }
 
     section.testimonials {
-    padding: 3rem 0;
+        padding: 3rem 0;
     }
 
     section.testimonials h2 {
@@ -1328,8 +1327,7 @@ section.portfolio.pricing .container_fluid {
         flex: 0 0 25%
     }
 
-    section.testimonials {
-    }
+    section.testimonials {}
 
     section.connected {
         padding-top: 30px;
@@ -1374,6 +1372,11 @@ section.portfolio.pricing .container_fluid {
 @media (max-width: 767.98px) {
     html {
         font-size: 12px;
+    }
+
+    .navbar-nav {
+        align-items: center;
+        gap: 0.5rem;
     }
 
     .InnovativeSec {
@@ -1524,7 +1527,8 @@ section.portfolio.pricing .container_fluid {
     }
 
     nav.navbar {
-        padding: 8px 15px 8px
+        padding: 8px 15px 8px;
+        gap: 1rem 0;
     }
 
     section.pricing {
@@ -1666,7 +1670,9 @@ section.portfolio.pricing .container_fluid {
     }
 
     header .navbar-right {
-        display: none
+        display: none;
+        gap: 0.5rem;
+        margin-top: 1rem;
     }
 
     .dropdown-menu {
@@ -1765,8 +1771,7 @@ section.portfolio.pricing .container_fluid {
         flex: 0 0 100%
     }
 
-    .InnovativeSec {
-    }
+    .InnovativeSec {}
 
     .Overlayimage {
         display: none
@@ -2012,8 +2017,7 @@ section.portfolio.pricing .container_fluid {
         font-size: 1em
     }
 
-    section.testimonials {
-    }
+    section.testimonials {}
 
     .multiple-testi .item {
         padding: 10px 10px
@@ -2104,10 +2108,13 @@ section.portfolio.pricing .container_fluid {
     .footer-info a img {
         width: 200px;
     }
+
     section.testimonials h2 {
-        font-size: 2.125rem;        
+        font-size: 2.125rem;
     }
-    .testimonials .testiLeft, .testimonials .testiRight {
+
+    .testimonials .testiLeft,
+    .testimonials .testiRight {
         padding: 2rem;
     }
 }

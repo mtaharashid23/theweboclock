@@ -31,7 +31,7 @@
                         <li data-aos="fade-up">Media and Entertainment</li>
                     </ul>
                     <div class="ctaGroup" data-aos="fade-up">
-                        <a href="tel:+13465023520" class="themeBtn themeWhite mr-1">346-502-3520</a>
+                        <a href="tel:+13465023520" class="themeBtn themeWhite mr-1">+1 (346) 502-3520</a>
                         <a href="javascript:;" class="themeBtn borderBtn ml-1" onclick="setButtonURL();">Live
                             Chat</a>
                     </div>

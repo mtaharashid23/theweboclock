@@ -15,7 +15,7 @@ include 'include/header.php'; ?>
                         user's total security and confidentiality.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Get Started</a>
-                        <a href="tel:+13465023520" class="themeBtn borderBtn">346-502-3520</a>
+                        <a href="tel:+13465023520" class="themeBtn borderBtn">+1 (346) 502-3520</a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-4">
@@ -50,7 +50,7 @@ include 'include/header.php'; ?>
                         monitoring the site interface and other performance factors.</p>
                     <h2 class="section-heading-2 gradient-heading">Newsletter Opt-out</h2>
                     <p>You can opt-out of getting our newsletter and promotional messages by following the instructions
-                        provided in each newsletter or communication, or by contacting us at or phoning us at <a href="tel:+13465023520">346-502-3520</a>.</p>
+                        provided in each newsletter or communication, or by contacting us at or phoning us at <a href="tel:+13465023520">+1 (346) 502-3520</a>.</p>
                     <h2 class="section-heading-2 gradient-heading">Social Media Widgets</h2>
                     <p>Plugins for social media, such as the Facebook Like button, and widgets, such as the Share This
                         button or engaging micro that run on our website, are available on the Internet. These features
@@ -140,7 +140,7 @@ include 'include/header.php'; ?>
                         if we think it's appropriate to defend our rights or to compliance with a regulatory procedure,
                         judicial order, or legal demand served on our Web site.</p>
                     <h2 class="section-heading-2 gradient-heading">Questions</h2>
-                    <p>Call our toll-free number (<a href="tel:+13465023520">346-502-3520</a>) or contact us at <a
+                    <p>Call our toll-free number (<a href="tel:+13465023520">+1 (346) 502-3520</a>) or contact us at <a
                             href="mailto:info@theweboclock.com">info@theweboclock.com</a> if you have any concerns
                         about our Privacy Policy or how we utilise your information.</p>
                 </div>
