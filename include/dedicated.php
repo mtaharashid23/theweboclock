@@ -4,7 +4,7 @@
             <div class="col-lg-7">
                 <div class="dedicatedtext" data-aos="fade-up">
                     <h2>Work with <img data-src="images/Cube-images/favicon.png" class="img-fluid lazy" alt="shaped" data-aos="zoom-in"> dedicated<br>
-                        experts <span> and accelerates</span> your growth</h2>
+                        experts <span> and accelerate</span> your growth</h2>
                 </div>
             </div>
         </div>
