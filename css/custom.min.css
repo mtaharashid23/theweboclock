@@ -3683,3 +3683,8 @@ section.WorkSection figure img {
   display: block;
   margin: 0 auto;
 }
+
+.brandingbanner .Branding-image.banner-right.big-image {
+  width: auto;
+  height: 640px;
+}
