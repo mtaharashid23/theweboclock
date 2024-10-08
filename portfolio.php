@@ -33,7 +33,7 @@ include 'include/header.php'; ?>
                 <div class="col-12" data-aos="fade-up">
                     <h2 class="section-heading  text-center">Logos, websites,<span> book covers & more!</span></h2>
                     <p class="paragraph">
-                        The Web O’Clock is a fully functional digital consultancy services that holds the experience to
+                        The Web O’Clock is a fully functional digital consultancy that holds the experience to
                         offer its customers solutions meeting all their needs.
                     </p>
                 </div>
