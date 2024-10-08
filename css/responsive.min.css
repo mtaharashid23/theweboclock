@@ -1374,9 +1374,17 @@ section.portfolio.pricing .container_fluid {
         font-size: 12px;
     }
 
+    header .navbar-dark .navbar-nav .nav-link {
+        font-size: 1rem;
+    }
+
     header.fixed .dropdown-menu a,
     header.fixed .navbar-dark .navbar-toggler-icon i {
         color: #000;
+    }
+
+    header .navbar-dark .navbar-nav .nav-link {
+        text-align: center;
     }
 
     .navbar-nav {
@@ -1685,7 +1693,8 @@ section.portfolio.pricing .container_fluid {
         background: 0 0;
         border-radius: 0;
         border: 0;
-        padding: 0 0
+        padding: 0 0;
+        text-align: center;
     }
 
     .dropdown-menu a:first-child {
