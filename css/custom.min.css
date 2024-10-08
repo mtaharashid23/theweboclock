@@ -2794,7 +2794,8 @@ section.WorkSection figure.aos-init.aos-animate {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 3px 10px 20px #88878817
+  box-shadow: 3px 10px 20px #88878817;
+  padding: 1rem;
 }
 
 section.connected input,

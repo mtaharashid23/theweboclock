@@ -23,7 +23,7 @@
             </div>
             <div class="col-md-2 col-lg-2 col-4">
                 <div class="BrandLogosimage" data-aos="zoom-in">
-                    <a href="javascript:void(0)"><img data-src="images/Cube-images/vector5.png" class="img-fluid lazy" alt="logo"></a>
+                    <a href="javascript:void(0)"><img data-src="images/Cube-images/sitejabber.png" class="img-fluid lazy" alt="logo"></a>
                 </div>
             </div>
             <div class="col-md-2 col-lg-2 col-4">
