@@ -19,7 +19,7 @@ include 'include/header.php'; ?>
                 </div>
             </div>
             <div class="Branding-image banner-right big-image">
-                <img data-src="images/logo-designing.png" alt="branding" class="img-fluid lazy">
+                <img data-src="images/branding1.png" alt="branding" class="img-fluid lazy">
             </div>
         </div>
     </section>

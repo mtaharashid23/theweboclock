@@ -20,7 +20,7 @@ include 'include/header.php'; ?>
                 </div>
                 <div class="col-lg-5 col-md-4">
                     <div class="banner-right">
-                        <img src="images/about.png" alt="">
+                        <img src="images/about1.png" alt="">
                     </div>
                 </div>
             </div>

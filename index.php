@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="BannerVectorimage " data-aos="fade-left">
-                        <img data-src="images/Cube-images/backgroundvector.png" alt="backgroundvector" class="lazy">
+                        <img data-src="images/banner-img1.png" alt="backgroundvector" class="lazy">
                     </div>
                 </div>
             </div>

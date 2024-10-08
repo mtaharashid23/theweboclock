@@ -19,7 +19,7 @@ include 'include/header.php'; ?>
                 </div>
                 <div class="col-lg-5 col-md-4">
                     <div class="banner-right">
-                        <img data-src="images/logo-designing.png" alt="logo-designing" class="img-fluid lazy">
+                        <img data-src="images/logo-design1.png" alt="logo-designing" class="img-fluid lazy">
                     </div>
                 </div>
             </div>
