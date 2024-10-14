@@ -66,7 +66,7 @@
                             </div>
                             <div class="content">
                                 <h6>Address</h6>
-                                <p><a href="https://maps.app.goo.gl/2oYCcGS6UstBHBnj8" target="_blank"> 5 S 1st St, Richmond, VA 23219, United States</a></p>
+                                <p><a href="https://maps.app.goo.gl/D4savQncSooZBZpH6" target="_blank"> 5 S 1st St, Richmond, VA 23219, United States</a></p>
                                 <p><a href="#"></a></p>
                             </div>
                         </li>

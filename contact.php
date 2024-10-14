@@ -29,7 +29,7 @@ include 'include/header.php'; ?>
     <!-- map -->
     <section class="map">
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1619739.1244283123!2d-79.8826541!3d37.5420336!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b1119267643467%3A0x7b594532bb6235a0!2sThe%20Web%20O&#39;Clock!5e0!3m2!1sen!2s!4v1728075971734!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.552977399048!2d-77.4436893!3d37.54203359999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b1119267643467%3A0x7b594532bb6235a0!2sThe%20Web%20O&#39;Clock!5e0!3m2!1sen!2s!4v1728933864472!5m2!1sen!2s"
             width="100%" height="750" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade">
         </iframe>
     </section>
