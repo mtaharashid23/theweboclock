@@ -40,7 +40,7 @@ include 'include/header.php'; ?>
                         what you want, as you will be at the heart of all we do.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
-                        <a href="tel:+13465023520" class="themeBtn borderBtn">+1 (346) 502-3520</a>
+                        <a href="tel:+18044606259" class="themeBtn borderBtn">+1 (804) 460-6259</a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <!-- <section class="pricing">
+    <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -76,7 +76,7 @@ include 'include/header.php'; ?>
             </div>            
             <?php include 'include/logo-pack.php'; ?>
         </div>
-    </section> -->
+    </section>
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

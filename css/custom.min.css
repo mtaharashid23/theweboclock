@@ -677,7 +677,7 @@ section.pricing .nav-tabs {
   height: 18px;
   position: absolute;
   left: 0;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   content: "\f00c";
   font-weight: 900;
   background-color: var(--theme-color);

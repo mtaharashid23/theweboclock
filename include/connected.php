@@ -48,7 +48,7 @@
                             </div>
                             <div class="content">
                                 <h6>Phone</h6>
-                                <p><a href="tel:+13465023520">+1 (346) 502-3520</a></p>
+                                <p><a href="tel:+18044606259">+1 (804) 460-6259</a></p>
                             </div>
                         </li>
                         <li>
