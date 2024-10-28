@@ -48,7 +48,7 @@ include 'include/header.php'; ?>
         </div>
     </section>
     <!-- portfolio pricing -->
-    <!-- <section class="portfolio pricing">
+    <section class="portfolio pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12" data-aos="fade-up">
@@ -66,7 +66,7 @@ include 'include/header.php'; ?>
                 <?php include 'include/app-portfolio.php'; ?>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- testimonials -->

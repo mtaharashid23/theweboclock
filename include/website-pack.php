@@ -2,24 +2,21 @@
     <div class="col-md-6 col-lg-4">
         <div class="price-box">
             <div class="pkhead">
-                <h3>Startup Website <br> Package</h3>
+                <h3>Basic Website <br> Package</h3>
                 <h2 class="gradient-heading">&dollar;199</h2>
             </div>
             <div class="bdy">
                 <ul class="listscroll">
-
-                    <li>5 Stock Photos</li>
-                    <li>5 Page Website</li>
-                    <li>3 Banner Design</li>
+                    <li>2 Stock Images</li>
+                    <li>3 Pages Website</li>
                     <li>1 jQuery Slider Banner</li>
-                    <li>FREE Google Friendly Sitemap</li>
+                    <li>Contact/Query Form</li>
                     <li>Complete W3C Certified HTML</li>
                     <li>48 to 72 hours TAT</li>
-                    <li>Facebook Page Design</li>
-                    <li>Twitter Page Design</li>
-                    <li>YouTube Page Design</li>
-                    <li>Mobile Responsive will be Additional &dollar;99*</li>
-                    <li>CMS will be Additional &dollar;149*</li>
+                    <li>Complete Deployment</li>
+                    <li>100% Satisfaction Guarantee</li>
+                    <li>100% Unique Design Guarantee</li>
+                    <li>100% Money Back Guarantee *</li>
                 </ul>
             </div>
             <div class="ftter">
@@ -31,12 +28,40 @@
     <div class="col-md-6 col-lg-4">
         <div class="price-box">
             <div class="pkhead">
-                <h3>Professional Website<br> Package</h3>
-                <h2 class="gradient-heading">&dollar;449</h2>
+                <h3>Start Up Website<br> Package</h3>
+                <h2 class="gradient-heading">&dollar;395</h2>
             </div>
             <div class="bdy">
                 <ul class="listscroll">
-                    <li>10 Page Website</li>
+                    <li>5 Stock Photos</li>
+                    <li>5 Pages Website</li>
+                    <li>3 Banner Design</li>
+                    <li>1 jQuery Slider Banner</li>
+                    <li>FREE Google Friendly Sitemap</li>
+                    <li>Complete W3C Certified HTML</li>
+                    <li>48 to 72 hours TAT</li>
+                    <li>100% Satisfaction Guarantee</li>
+                    <li>100% Unique Design Guarantee</li>
+                    <li>100% Money Back Guarantee *</li>
+                    <li>Mobile Responsive will be Additional $200*</li>
+                    <li>CMS will be Additional $250*</li>
+                </ul>
+            </div>
+            <div class="ftter">
+                <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
+                    Started</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-4">
+        <div class="price-box">
+            <div class="pkhead">
+                <h3>Professional Website <br> Package </h3>
+                <h2 class="gradient-heading">&dollar;844</h2>
+            </div>
+            <div class="bdy">
+                <ul class="listscroll">
+                    <li>10 Unique Pages Website</li>
                     <li>CMS / Admin Panel Support</li>
                     <li>8 Stock images</li>
                     <li>5 Banner Designs</li>
@@ -44,11 +69,11 @@
                     <li>FREE Google Friendly Sitemap</li>
                     <li>Complete W3C Certified HTML</li>
                     <li>48 to 72 hours TAT</li>
-                    <li>Facebook Page Design</li>
-                    <li>Twitter Page Design</li>
-                    <li>YouTube Page Design</li>
-                    <li>Dedicated Project Manager</li>
                     <li>Complete Deployment</li>
+                    <li>100% Satisfaction Guarantee</li>
+                    <li>100% Unique Design Guarantee</li>
+                    <li>100% Money Back Guarantee *</li>
+                    <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
             </div>
             <div class="ftter">
@@ -60,8 +85,8 @@
     <div class="col-md-6 col-lg-4">
         <div class="price-box">
             <div class="pkhead">
-                <h3>Elite Website <br> Package </h3>
-                <h2 class="gradient-heading">&dollar;749</h2>
+                <h3>Elite Website<br> Package</h3>
+                <h2 class="gradient-heading">&dollar;1399</h2>
             </div>
             <div class="bdy">
                 <ul class="listscroll">
@@ -82,54 +107,10 @@
                     <li>1 jQuery Slider Banner</li>
                     <li>Complete W3C Certified HTML</li>
                     <li>48 to 72 hours TAT</li>
-                    <li>Facebook Page Design</li>
-                    <li>Twitter Page Design</li>
-                    <li>YouTube Page Design</li>
-                    <li>Dedicated Project Manager</li>
                     <li>Complete Deployment</li>
-                </ul>
-            </div>
-            <div class="ftter">
-                <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
-                    Started</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-6 col-lg-4">
-        <div class="price-box">
-            <div class="pkhead">
-                <h3>Silver Website<br> Package</h3>
-                <h2 class="gradient-heading">&dollar;1599</h2>
-            </div>
-            <div class="bdy">
-                <ul class="listscroll">
-                    <li>Custom Made, Interactive, Dynamic &amp; High End Design</li>
-                    <li>Custom WP (or) Custom PHP Development</li>
-                    <li>1 jQuery Slider Banner</li>
-                    <li>Up to 10 Custom Made Banner Designs</li>
-                    <li>10 Stock Images</li>
-                    <li>Unlimited Revisions</li>
-                    <li>Special Hover Effects</li>
-                    <li>Content Management System (CMS)</li>
-                    <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
-                    <li>Online Payment Integration (Optional)</li>
-                    <li>Multi Lingual (Optional)</li>
-                    <li>Custom Dynamic Forms (Optional)</li>
-                    <li>Signup Area (For Newsletters, Offers etc.)</li>
-                    <li>Search Bar</li>
-                    <li>Live Feeds of Social Networks integration (Optional)</li>
-                    <li>Mobile Responsive</li>
-                    <li>FREE 5 Years Domain Name</li>
-                    <li>Free Google Friendly Sitemap</li>
-                    <li>Search Engine Submission</li>
-                    <li>Complete W3C Certified HTML</li>
-                    <li>Industry Specified Team of Expert Designers and Developers</li>
-                    <li>Complete Deployment</li>
-                    <li>Dedicated Project Manager</li>
-                    <li>Dedicated Accounts Manager</li>
-                    <li>Facebook Page Design</li>
-                    <li>Twitter Page Design</li>
-                    <li>YouTube Page Design</li>
+                    <li>100% Satisfaction Guarantee</li>
+                    <li>100% Unique Design Guarantee</li>
+                    <li>100% Money Back Guarantee *</li>
                 </ul>
             </div>
             <div class="ftter">
@@ -142,17 +123,22 @@
         <div class="price-box">
             <div class="pkhead">
                 <h3>Business Website<br> Package</h3>
-                <h2 class="gradient-heading">&dollar;1999</h2>
+                <h2 class="gradient-heading">&dollar;2345</h2>
             </div>
             <div class="bdy">
                 <ul class="listscroll">
+                    <li>30 Seconds 2D Explainer Video</li>
+                    <li>Voice - Over &amp; Sound Effects</li>
+                    <li>Professional Script Writing</li>
+                    <li>Storyboard</li>
+                    <li>SEO Meta Tags</li>
                     <li>Custom Made, Interactive, Dynamic &amp; High End Design</li>
                     <li>Custom WP (or) Custom PHP Development</li>
                     <li>1 jQuery Slider Banner</li>
                     <li>Up to 10 Custom Made Banner Designs</li>
                     <li>10 Stock Images</li>
                     <li>Unlimited Revisions</li>
-                    <li>Special Hover Effects</li>
+                    <li>Special Hoover Effects</li>
                     <li>Content Management System (CMS)</li>
                     <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
                     <li>Online Payment Integration (Optional)</li>
@@ -160,20 +146,19 @@
                     <li>Custom Dynamic Forms (Optional)</li>
                     <li>Signup Area (For Newsletters, Offers etc.)</li>
                     <li>Search Bar</li>
-                    <li>Live Feeds of Social Networks integration (Optional)</li>
+                    <li>Live Feeds of Social Networks Integration (Optional)</li>
                     <li>Mobile Responsive</li>
-                    <li>15 Seconds 2D Explainer Video</li>
-                    <li>Voice - Over &amp; Sound Effects</li>
-                    <li>Professional Script Writing</li>
-                    <li>Storyboard</li>
-                    <li>SEO Meta Tags</li>
                     <li>FREE 5 Years Domain Name</li>
                     <li>Free Google Friendly Sitemap</li>
                     <li>Search Engine Submission</li>
                     <li>Complete W3C Certified HTML</li>
                     <li>Industry Specified Team of Expert Designers and Developers</li>
-                    <li>Dedicated Accounts Manager</li>
                     <li>Complete Deployment</li>
+                    <li>Dedicated Accounts Manager</li>
+                    <li>100% Ownership Rights</li>
+                    <li>100% Satisfaction Guarantee</li>
+                    <li>100% Unique Design Guarantee</li>
+                    <li>100% Money Back Guarantee *</li>
                 </ul>
             </div>
             <div class="ftter">
@@ -202,6 +187,7 @@
                     <li>JQuery Slider</li>
                     <li>Search Engine Submission</li>
                     <li>Free Google Friendly Sitemap</li>
+                    <li>FREE 5 Years Hosting</li>
                     <li>Custom Email Addresses</li>
                     <li>Social Media Page Designs (Facebook, Twitter, Instagram)</li>
                     <li>Complete W3C Certified HTML</li>
@@ -235,6 +221,35 @@
                     <li>Online Communities &amp; Social Engagement</li>
                     <li>Curation of Resources And Adding Own Resources</li>
                     <li>Dedicated Accounts Manager</li>
+                    <li>Custom Made, Interactive, Dynamic &amp; High End Design</li>
+                    <li>Custom WP (or) Custom PHP Development</li>
+                    <li>1 jQuery Slider Banner</li>
+                    <li>Up to 10 Custom Made Banner Designs</li>
+                    <li>10 Stock Images</li>
+                    <li>Unlimited Revisions</li>
+                    <li>Special Hoover Effects</li>
+                    <li>Content Management System (CMS)</li>
+                    <li>Online Appointment/Scheduling/Online Ordering Integration
+                        (Optional)</li>
+                    <li>Online Payment Integration (Optional)</li>
+                    <li>Multi Lingual (Optional)</li>
+                    <li>Custom Dynamic Forms (Optional)</li>
+                    <li>Signup Area (For Newsletters, Offers etc.)</li>
+                    <li>Search Bar</li>
+                    <li>Live Feeds of Social Networks integration (Optional)</li>
+                    <li>Mobile Responsive</li>
+                    <li>15 Seconds 2D Explainer Video</li>
+                    <li>Voice - Over &amp; Sound Effects</li>
+                    <li>Professional Script Writing</li>
+                    <li>Storyboard</li>
+                    <li>SEO Meta Tags</li>
+                    <li>FREE 5 Years Domain Name</li>
+                    <li>Free Google Friendly Sitemap</li>
+                    <li>Search Engine Submission</li>
+                    <li>Complete W3C Certified HTML</li>
+                    <li>Industry Specified Team of Expert Designers and Developers</li>
+                    <li>Dedicated Accounts Manager</li>
+                    <li>Complete Deployment</li>
                 </ul>
             </div>
             <div class="ftter">

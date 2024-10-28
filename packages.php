@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
     <!-- dedicated -->
     <?php include 'include/dedicated.php'; ?>
     <!-- pricing -->
-    <!-- <section class="pricing">
+    <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -115,7 +115,7 @@ include 'include/header.php'; ?>
         <div class="pricing-circle-bottom">
             <img data-src="images/pricing-circle-bottom.png" alt="pricing-circle-bottom" class="lazy">
         </div>
-    </section> -->
+    </section>
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- connected -->

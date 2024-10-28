@@ -281,7 +281,7 @@
                 </div>
             </div>
             <ul class="nav nav-tabs" id="myTab" role="tablist">
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link active" id="website-design-development-tab" data-toggle="tab"
                         href="#option-website-design-development" role="tab" aria-controls="website-design-development"
                         aria-selected="true">Website Design</a>
@@ -308,18 +308,18 @@
                     <a class="nav-link " id="web-content-writing-tab" data-toggle="tab"
                         href="#option-web-content-writing" role="tab" aria-controls="web-content-writing"
                         aria-selected="true">Web Content Writing</a>
-                </li> -->
+                </li>
                 <li class="nav-item">
-                    <a class="nav-link active" id="logo-design-tab" data-toggle="tab" href="#option-logo-design" role="tab"
+                    <a class="nav-link" id="logo-design-tab" data-toggle="tab" href="#option-logo-design" role="tab"
                         aria-controls="logo-design" aria-selected="true">Logo Design</a>
                 </li>
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link " id="animated-logo-tab" data-toggle="tab" href="#option-animated-logo"
-                        role="tab" aria-controls="animated-logo" aria-selected="true">Animated Logo</a> -->
+                        role="tab" aria-controls="animated-logo" aria-selected="true">Animated Logo</a>
             </ul>
             <div class="row">
                 <div class="tab-content" id="myTabContent">
-                    <!-- <div class="tab-pane fade col-12 show active" id="option-website-design-development" role="tabpanel"
+                    <div class="tab-pane fade col-12 show active" id="option-website-design-development" role="tabpanel"
                         aria-labelledby="website-design-development-tab">                        
                         <?php include 'include/website-pack.php'; ?>
                     </div>
@@ -344,15 +344,15 @@
                     <div class="tab-pane fade col-12 " id="option-web-content-writing" role="tabpanel"
                         aria-labelledby="web-content-writing-tab">                        
                         <?php include 'include/web-content-pack.php'; ?>
-                    </div> -->
-                    <div class="tab-pane fade col-12 show active" id="option-logo-design" role="tabpanel"
+                    </div>
+                    <div class="tab-pane fade col-12" id="option-logo-design" role="tabpanel"
                         aria-labelledby="logo-design-tab">                        
                         <?php include 'include/logo-pack.php'; ?>
                     </div>
-                    <!-- <div class="tab-pane fade col-12 " id="option-animated-logo" role="tabpanel"
+                    <div class="tab-pane fade col-12 " id="option-animated-logo" role="tabpanel"
                         aria-labelledby="animated-logo-tab">                        
                         <?php include 'include/animated-logo-pack.php'; ?>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>

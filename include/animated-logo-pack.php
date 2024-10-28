@@ -2,7 +2,7 @@
     <div class="col-md-6 col-lg-4">
         <div class="price-box">
             <div class="pkhead">
-                <h3>2d Standard Logo Animation </h3>
+                <h3>2d Standard Logo Animation</h3>
                 <h2 class="gradient-heading">$155</h2>
             </div>
             <div class="bdy">

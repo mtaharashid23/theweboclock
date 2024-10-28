@@ -152,7 +152,7 @@ include 'include/header.php'; ?>
     <!-- inner-content -->
     <?php include 'include/inner-content.php'; ?>
     <!-- pricing -->
-    <!-- <section class="pricing">
+    <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-4">
@@ -164,7 +164,7 @@ include 'include/header.php'; ?>
             </div>            
             <?php include 'include/web-content-pack.php'; ?>
         </div>
-    </section> -->
+    </section>
     <!-- testimonials -->
     <?php include 'include/testimonials.php'; ?>
     <!-- inner-cta -->

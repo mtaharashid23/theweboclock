@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
     <!-- dedicated -->
     <?php include 'include/dedicated.php'; ?>
     <!-- pricing -->
-    <!-- <section class="pricing">
+    <section class="pricing">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -241,7 +241,7 @@ include 'include/header.php'; ?>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- serve -->
     <?php include 'include/serve.php'; ?>
     <!-- testimonials -->
