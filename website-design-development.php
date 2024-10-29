@@ -64,7 +64,7 @@ include 'include/header.php'; ?>
                 <div class="col-12" data-aos="fade-up">
                     <h2 class="section-heading  text-center">Choose the right platform for your <span>business or
                             brand</span></h2>
-                    <p class="paragraph">Design Cottage strived to deliver its customers with game-changing solutions
+                    <p class="paragraph">The Web O’Clock strived to deliver its customers with game-changing solutions
                         and focused on beneficial outcomes for their business.</p>
                 </div>
             </div>
@@ -134,8 +134,7 @@ include 'include/header.php'; ?>
                         <div class="tehnology-text">
                             <h2>jQuery</h2>
                             <p>jQuery is a lightweight, "write less, do more" JavaScript library. Our purpose for using
-                                jQuery is to make it much easier to use JavaScript on your website. We at Designs
-                                Cottage use tactics to sharpen your project.</p>
+                                jQuery is to make it much easier to use JavaScript on your website. We at The Web O’Clock use tactics to sharpen your project.</p>
                         </div>
                     </div>
                     <div class="col-md-3">

@@ -65,7 +65,7 @@ include 'include/header.php'; ?>
                 <div class="col-12" data-aos="fade-up">
                     <h2 class="section-heading  text-center">Choose the right platform for your <span>e-commerce
                             business</span></h2>
-                    <p class="paragraph">Design Cottage strived to deliver its customers with game-changing solutions
+                    <p class="paragraph">The Web O’Clock strived to deliver its customers with game-changing solutions
                         and focused on beneficial outcomes for their business.</p>
                 </div>
             </div>

@@ -65,7 +65,7 @@
     <div class="col-md-6 col-lg-4">
         <div class="price-box">
             <div class="pkhead">
-                <h3>Logo Premium <br> PACKAGE</h3>
+                <h3>Logo Premium <br> Package</h3>
                 <h2 class="gradient-heading">$399</h2>
             </div>
             <div class="bdy">

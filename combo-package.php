@@ -83,7 +83,7 @@ include 'include/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="price-box">
                         <div class="pkhead">
-                            <h3>Corporate Cottage Combo <br> Package</h3>
+                            <h3>Corporate Combo <br> Package</h3>
                             <h2 class="gradient-heading">$999.00</h2>
                         </div>
                         <div class="bdy">
@@ -145,7 +145,7 @@ include 'include/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="price-box">
                         <div class="pkhead">
-                            <h3>Cottage Best Selling Combo <br> Package</h3>
+                            <h3>Best Selling Combo <br> Package</h3>
                             <h2 class="gradient-heading">$1999.00</h2>
                         </div>
                         <div class="bdy">
