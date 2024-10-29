@@ -45,8 +45,8 @@
                     <h6>Company</h6>
                     <ul>
                         <li><a href="about">About Us</a></li>
-                        <!-- <li><a href="packages">Packages</a></li>
-                        <li><a href="combo-package">Combo Packages</a></li> -->
+                        <li><a href="packages">Packages</a></li>
+                        <li><a href="combo-package">Combo Packages</a></li>
                         <li><a href="contact">Contact us</a></li>
                         <li><a href="privacy">Privacy Policy</a></li>
                         <li><a href="terms-condition">Terms & Condition</a></li>
