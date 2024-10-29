@@ -41,67 +41,41 @@ include 'include/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="price-box">
                         <div class="pkhead">
-                            <h3>Basic Combo <br> Package</h3>
-                            <h2 class="gradient-heading">$499</h2>
+                            <h3>Startup Combo <br> Package</h3>
+                            <h2 class="gradient-heading">$499.00</h2>
                         </div>
                         <div class="bdy">
                             <ul class="listscroll">
+                                <li class="heading">Logo Design</li>
                                 <li>5 Custom Logo Design Concepts</li>
                                 <li>By 2 Designers</li>
                                 <li>Icon Design</li>
+                                <li>All Final File Formats</li>
+                                <li class="heading">Business Stationary</li>
                                 <li>Business Card, Letterhead, Envelope, Fax Template</li>
                                 <li>MS Word Letterhead</li>
+                                <li class="heading">Website Design</li>
                                 <li>5 Page Website</li>
-                                <li>Mobile Responsive</li>
-                                <li>Team of Expert Designers &amp; Developers</li>
+                                <li>Team of Expert Designers & Developers</li>
                                 <li>8 Stock images</li>
                                 <li>5 Banner Designs</li>
                                 <li>jQuery Sliders</li>
-                                <li>Free Google Friendly Sitemap</li>
-                                <li>Complete W3C Certified HTML</li>
-                                <li>Complete Deployment</li>
-                                <li>Facebook Page Design</li>
-                                <li>Twitter Page Design</li>
-                                <li>YouTube Page Design</li>
-                                <li>All Final File Formats</li>
-                                <li>Dedicated Account Manager</li>
-                            </ul>
-                        </div>
-                        <div class="ftter">
-                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
-                                Started</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="price-box">
-                        <div class="pkhead">
-                            <h3>Startup Combo <br> Package</h3>
-                            <h2 class="gradient-heading">$799</h2>
-                        </div>
-                        <div class="bdy">
-                            <ul class="listscroll">
-                                <li>Unlimited Logo Design Concepts</li>
-                                <li>+ Social Media Design</li>
-                                <li>Mobile Responsive</li>
-                                <li>3 Dedicated Designers</li>
-                                <li>Icon Design</li>
-                                <li>Business Card, Letterhead, Envelope</li>
-                                <li>MS Word Letterhead</li>
-                                <li>UNLIMITED Pages Website</li>
                                 <li>Content Management System (CMS)</li>
-                                <li>5 Stock Photos + 3 Banner Designs</li>
+                                <li>Facebook Page Design</li>
                                 <li>Complete W3C Certified HTML</li>
                                 <li>Complete Deployment</li>
-                                <li>Facebook Page Design</li>
-                                <li>Twitter Page Design</li>
-                                <li>YouTube Page Design</li>
-                                <li>All Final File Formats</li>
-                                <li>Dedicated Account Manager</li>
+                                <li class="heading">Value Added Services</li>
+                                <li>Logo Design Final Files (.PNG, .JPG, .PDF)</li>
+                                <li>Website Design Complete Source Files</li>
+                                <li>Dedicated Project Manager</li>
+                                <li>Ownership Rights</li>
+                                <li>Money Back Guarantee*</li>
+                                <li>Complete Deployment</li>
                             </ul>
                         </div>
                         <div class="ftter">
-                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
+                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal"
+                                data-target="#customQuote">Get
                                 Started</a>
                         </div>
                     </div>
@@ -109,63 +83,23 @@ include 'include/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="price-box">
                         <div class="pkhead">
-                            <h3>Professional Combo <br> Package</h3>
-                            <h2 class="gradient-heading">$1299</h2>
+                            <h3>Corporate Cottage Combo <br> Package</h3>
+                            <h2 class="gradient-heading">$999.00</h2>
                         </div>
                         <div class="bdy">
                             <ul class="listscroll">
-                                <li>Unlimited Logo Concepts</li>
+                                <li class="heading">Logo Design</li>
+                                <li>Unlimited Logo Design Idea(s)</li>
                                 <li>8 Dedicated Designers</li>
                                 <li>Icon Design</li>
-                                <li>2 Free Custom Stationary Designs</li>
-                                <li>MS Word Letterhead</li>
-                                <li>Trifold Brochure Design</li>
-                                <li>Presentation Folder Design</li>
-                                <li>Conceptual and Dynamic Liquid Website</li>
-                                <li>Team of Expert Designers &amp; Developers</li>
-                                <li>Mobile Responsive</li>
-                                <li>Online Reservation/Appointment Tool (Optional)</li>
-                                <li>Custom Forms</li>
-                                <li>Lead Capturing Forms (Optional)</li>
-                                <li>Newsfeed Integration</li>
-                                <li>Social Media Integration</li>
-                                <li>Search Engine Submission</li>
-                                <li>15 Stock images</li>
-                                <li>8 Unique Banner Designs</li>
-                                <li>jQuery Sliders</li>
-                                <li>Free Google Friendly Sitemap</li>
-                                <li>Complete W3C Certified HTML</li>
-                                <li>Facebook Page Design</li>
-                                <li>Twitter Page Design</li>
-                                <li>YouTube Page Design</li>
-                                <li>Google+ Page Design</li>
-                                <li>All Final File Formats</li>
-                                <li>Dedicated Account Manager</li>
-                            </ul>
-                        </div>
-                        <div class="ftter">
-                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
-                                Started</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="price-box">
-                        <div class="pkhead">
-                            <h3>Corporate Combo <br> Package</h3>
-                            <h2 class="gradient-heading">$2000</h2>
-                        </div>
-                        <div class="bdy">
-                            <ul class="listscroll">
-                                <li>Unlimited Logo Concepts</li>
-                                <li>8 Dedicated Designers</li>
-                                <li>Icon Design</li>
-                                <li>2 Free Custom Stationary Designs</li>
-                                <li>MS Word Letterhead</li>
+                                <li>All final file formats</li>
+                                <li>Stationary Design</li>
                                 <li>Invoice Design</li>
-                                <li>Product Catalog Design</li>
+                                <li>FREE Tri fold Brochure Design</li>
+                                <li class="heading">Website Design</li>
                                 <li>Unlimited Pages Website</li>
                                 <li>Conceptual and Dynamic Website</li>
+                                <li>Word Press OR CUSTOM PHP</li>
                                 <li>Content Management System (CMS)</li>
                                 <li>Easy Product Search</li>
                                 <li>Product Reviews</li>
@@ -175,7 +109,7 @@ include 'include/header.php'; ?>
                                 <li>New Product Showcase</li>
                                 <li>Full Shopping Cart Integration</li>
                                 <li>Payment Module Integration</li>
-                                <li>Sales &amp; Inventory Management</li>
+                                <li>Sales & Inventory Management</li>
                                 <li>Custom Forms</li>
                                 <li>Lead Capturing Forms (Optional)</li>
                                 <li>Newsfeed Integration</li>
@@ -187,17 +121,23 @@ include 'include/header.php'; ?>
                                 <li>jQuery Slider</li>
                                 <li>Free Google Friendly Sitemap</li>
                                 <li>Complete W3C Certified HTML</li>
+                                <li class="heading">Social Media Page Design</li>
                                 <li>Facebook Page Design</li>
                                 <li>Twitter Page Design</li>
                                 <li>YouTube Page Design</li>
                                 <li>Google+ Page Design</li>
                                 <li>Pinterest Page Design</li>
-                                <li>All Final File Formats</li>
+                                <li class="heading">Value Added Services</li>
                                 <li>Dedicated Account Manager</li>
+                                <li>100% Ownership Rights</li>
+                                <li>100% Satisfaction Guarantee</li>
+                                <li>100% Money Back Guarantee</li>
+                                <li>*NO MONTHLY OR ANY HIDDEN FEE*</li>
                             </ul>
                         </div>
                         <div class="ftter">
-                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
+                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal"
+                                data-target="#customQuote">Get
                                 Started</a>
                         </div>
                     </div>
@@ -205,40 +145,75 @@ include 'include/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="price-box">
                         <div class="pkhead">
-                            <h3>Elite Combo <br> Package</h3>
-                            <h2 class="gradient-heading">$3000</h2>
+                            <h3>Cottage Best Selling Combo <br> Package</h3>
+                            <h2 class="gradient-heading">$1999.00</h2>
                         </div>
                         <div class="bdy">
                             <ul class="listscroll">
-                                <li>Complete Custom Design &amp; Development</li>
-                                <li>Client/User Dashboard Area</li>
-                                <li>Custom Coding</li>
-                                <li>Custom PHP Development</li>
-                                <li>Content Management System (CMS)</li>
-                                <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
-                                <li>Online Payment Integration (Optional)</li>
-                                <li>Multi Lingual (Optional)</li>
-                                <li>Custom Dynamic Forms (Optional)</li>
-                                <li>Signup Area (For Newsletters, Offers etc.)</li>
-                                <li>Search Bar</li>
-                                <li>Live Feeds of Social Networks integration (Optional)</li>
-                                <li>Mobile Responsive Web</li>
-                                <li>Search Engine Submission</li>
-                                <li>Module-wise Architecture</li>
-                                <li>Extensive Admin Panel</li>
-                                <li>Award Winning Team of Expert Designers and Developers</li>
-                                <li>Complete Deployment</li>
-                                <li>Facebook Page Design</li>
-                                <li>Twitter Page Design</li>
-                                <li>YouTube Page Design</li>
+                                <li class="heading">Logo Design</li>
+                                <li>Unlimited Logo Design Idea(s)</li>
+                                <li>By 6 Award Winning Designer(s)</li>
+                                <li>Free Icon Design</li>
+                                <li>Unlimited Revisions</li>
+                                <li>2 to 3 Business Days TAT</li>
+                                <li class="heading">Website Design</li>
+                                <li>Unlimited Pages Website Design</li>
+                                <li>Custom Made, Interactive, Dynamic &amp; High End Design</li>
+                                <li>Customized WordPress Development</li>
+                                <li>Interactive Sliding Banners</li>
+                                <div class="coll">
+                                    <ul>
+                                        <li>Up to 15 Custom Made Banner Designs</li>
+                                        <li>15 Stock Images</li>
+                                        <li>Unlimited Revisions</li>
+                                        <li>Special Hover Effects</li>
+                                        <li>Content Management System</li>
+                                        <li>Online Appointment / Booking / Scheduling / Online Ordering Integration
+                                            (Optional)</li>
+                                        <li>Online Payment Integration (Optional)</li>
+                                        <li>Multi Lingual (Optional)</li>
+                                        <li>Custom Dynamic Forms (Optional)</li>
+                                        <li>Signup Area (For Newsletters, Offers etc.)</li>
+                                        <li>Search Bar</li>
+                                        <li>Live Feeds of Social Networks integration (Optional)</li>
+                                        <li>Mobile Responsive</li>
+                                        <li>FREE 24 Months Domain Name</li>
+                                        <li>FREE 24 Month Hosting</li>
+                                        <li>Up to 15 Professional Email ID's</li>
+                                        <li>Google Friendly Sitemap</li>
+                                        <li>Search Engine Submission</li>
+                                        <li>Complete W3C Certified HTML</li>
+                                        <li>Industry specified Team of Award Winning Designers and Developers</li>
+                                        <li>Complete Deployment</li>
+                                    </ul>
+                                </div>
+                                <li class="heading">Social Media Page Design</li>
+                                <li>Facebook Icon Image &amp; Banner Design</li>
+                                <li>Twitter Icon Image &amp; Banner Design</li>
+                                <li>Google+ Icon Image &amp; Banner Design</li>
+                                <li>YouTube Icon Image &amp; Banner Design</li>
+                                <li>LinkedIn Icon Image &amp; Banner Design</li>
+                                <li class="heading">Value Added Services</li>
+                                <li>Logo Design Final Files</li>
+                                <li>Website Design Complete Source Files</li>
+                                <li>Dedicated Project Manager</li>
+                                <li>100% Ownership Rights</li>
+                                <li>100% Satisfaction Guarantee</li>
+                                <li>100% Money Back Guarantee</li>
+                                <li>*NO MONTHLY OR ANY HIDDEN FEE*</li>
+                                <li class="heading">Add on</li>
+                                <li>Professional Content/Copywriting</li>
+                                <li>Shopping Cart Integration</li>
+                                <li>Additional Professional Email ID</li>
                             </ul>
                         </div>
                         <div class="ftter">
-                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal" data-target="#customQuote">Get
+                            <a href="javascript:;" class="themeBtn mr-2" data-toggle="modal"
+                                data-target="#customQuote">Get
                                 Started</a>
                         </div>
                     </div>
-                </div>
+                </div>                
             </div>
         </div>
     </section>
