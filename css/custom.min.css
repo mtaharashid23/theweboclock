@@ -637,7 +637,7 @@ section.pricing .nav-tabs {
   border-color: var(--theme-color);
   border-style: solid;
   border-radius: 15px;
-  z-index: 1
+  z-index: 1;
 }
 
 .price-box h3 {
@@ -669,7 +669,8 @@ section.pricing .nav-tabs {
   padding-left: 0;
   list-style: none;
   position: relative;
-  height: 315px
+  height: 315px;
+  overflow: hidden;
 }
 
 .price-box .listscroll li:before {
