@@ -24,7 +24,7 @@ include 'include/header.php'; ?>
                     </div>
                 </div>
             </div>
-        </div>    
+        </div>
     </section>
     <!-- privacy-section -->
     <section class="aboutSec privacy-section aboutSec-1 pt-0">
@@ -35,10 +35,19 @@ include 'include/header.php'; ?>
                     <p>The design and development team are continually striving to provide user's the greatest look and
                         feel and online experience possible, and they maintain the website fully up to date with user's
                         most recent user interface needs, based entirely on the essential information acquired and
-                        stored from them.</p>
+                        stored from them.
+                    </p>
+                    <h2 class="section-heading-2 gradient-heading">Commitment to Your Privacy!</h2>
+                    <p>
+                        We prioritize the privacy of your mobile information. No mobile data will be shared with third
+                        parties or affiliates for marketing or promotional purposes. Additionally, all categories
+                        mentioned above exclude text messaging originator opt-in data and consent. This information will
+                        be securely protected and will not be shared with any third parties under any circumstances.
+                    </p>
                     <h2 class="section-heading-2 gradient-heading">Personal Information Collected</h2>
                     <p>The Web O’Clock guarantees the user's and especially consumers' extremely personal and private
-                        information with the highest security and privacy with this statement of privacy policy. The Web O’Clock additionally ensures that it does not and will never disclose or sell the personal
+                        information with the highest security and privacy with this statement of privacy policy. The Web
+                        O’Clock additionally ensures that it does not and will never disclose or sell the personal
                         information of its user's and customers to anyone or in any way through this declaration of
                         privacy policy.</p>
                     <h2 class="section-heading-2 gradient-heading">Usage Of Collected Data</h2>
@@ -50,7 +59,8 @@ include 'include/header.php'; ?>
                         monitoring the site interface and other performance factors.</p>
                     <h2 class="section-heading-2 gradient-heading">Newsletter Opt-out</h2>
                     <p>You can opt-out of getting our newsletter and promotional messages by following the instructions
-                        provided in each newsletter or communication, or by contacting us at or phoning us at <a href="tel:+18044606259">+1 (804) 460-6259</a>.</p>
+                        provided in each newsletter or communication, or by contacting us at or phoning us at <a
+                            href="tel:+18044606259">+1 (804) 460-6259</a>.</p>
                     <h2 class="section-heading-2 gradient-heading">Social Media Widgets</h2>
                     <p>Plugins for social media, such as the Facebook Like button, and widgets, such as the Share This
                         button or engaging micro that run on our website, are available on the Internet. These features
@@ -62,7 +72,8 @@ include 'include/header.php'; ?>
                     <p>Similarly, to all other basic info, The Web O’Clock focuses and places a high value on wanting to
                         share the congregated data with third parties solely for the purpose of sustaining and enhancing
                         the website user's experience.</p>
-                    <p>Any material exchanged with other parties is done only based on a contract between The Web O’Clock and the appropriate third parties, and none of the third parties are permitted or
+                    <p>Any material exchanged with other parties is done only based on a contract between The Web
+                        O’Clock and the appropriate third parties, and none of the third parties are permitted or
                         authorized to release important knowledge with anyone else, in any way, for any reason.</p>
                     <h2 class="section-heading-2 gradient-heading">How Do We Keep Your Information Safe?</h2>
                     <p>We value the security of personal information. When you submit private information as part of
