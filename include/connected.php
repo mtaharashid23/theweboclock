@@ -12,7 +12,7 @@
                     <input type="hidden" id="location" name="locationURL" value="https://theweboclock.com/">
                     <script type="text/javascript">
                         document.getElementById('location').value = window.location.href;
-                    </script>                    
+                    </script>
                     <input type="hidden" name="subject" value="#">
                     <div class="form-group">
                         <input type="text" class="form-control" name="name" placeholder="Your name">
@@ -27,6 +27,18 @@
                     <div class="form-group">
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"
                             placeholder="Start writing message here" name="msg"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="terms" class="checkbox-inline">
+                            <input type="checkbox" name="terms" value="1" required>
+                            <span>
+                                I agree to receive communications by text message about my inquiry. You may opt-out by
+                                replying STOP or ask for more information by replying HELP. Message frequency varies.
+                                Message and data rates may apply. You may review our <a href="privacy">Privacy Policy</a> to learn how your
+                                data
+                                is used.
+                            </span>
+                        </label>
                     </div>
                     <button type="submit" class="themeBtn btn btnTheme">Send Message</button>
                     <div class="error mt-3 alert alert-danger text-left mb-0" style="display: none"></div>
@@ -66,7 +78,8 @@
                             </div>
                             <div class="content">
                                 <h6>Address</h6>
-                                <p><a href="https://maps.app.goo.gl/D4savQncSooZBZpH6" target="_blank"> 5 S 1st St, Richmond, VA 23219, United States</a></p>
+                                <p><a href="https://maps.app.goo.gl/D4savQncSooZBZpH6" target="_blank"> 5 S 1st St,
+                                        Richmond, VA 23219, United States</a></p>
                                 <p><a href="#"></a></p>
                             </div>
                         </li>

@@ -73,7 +73,7 @@
 
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <p class="copyright-text text-right">Privacy | Terms of Use</span></p>
+                    <p class="copyright-text text-right"><a href="privacy">Privacy Policy</a> | <a href="terms-condition">Terms of Use</a></span></p>
                 </div>
             </div>
         </div>

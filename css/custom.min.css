@@ -3690,3 +3690,20 @@ section.WorkSection figure img {
   width: auto;
   height: 640px;
 }
+
+.checkbox-inline {
+  margin: 0;
+}
+
+.checkbox-inline input {
+  height: auto !important;
+  margin-right: .375rem;
+}
+
+.checkbox-inline span a {
+  color: var(--primary-color);
+}
+
+.copyright-text a {
+  color: var(--white);
+}
