@@ -73,11 +73,11 @@
                 </div>
                 <div class="col-md">
                     <div class="portfolio-box">
-                        <a data-fancybox="port" href="images/portfolio/website/new/food/01-large.webp">
+                        <a data-fancybox="port" href="images/portfolio/website/new/estate/new-webportfolio1.jpg">
                             <div class="overlay"><i class="fas fa-search-plus"></i></div>
                             <figure>
                                 <img class="lazy" alt="Website Design"
-                                    data-src="images/portfolio/website/new/food/01-large.webp">
+                                    data-src="images/portfolio/website/new/estate/new-webportfolio1.jpg">
                             </figure>
                         </a>
                     </div>
