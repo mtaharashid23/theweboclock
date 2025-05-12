@@ -15,7 +15,7 @@ include 'include/header.php'; ?>
                         user's total security and confidentiality.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Get Started</a>
-                        <a href="tel:+18044606259" class="themeBtn borderBtn">+1 (804) 460-6259</a>
+                        <a href="tel:+61358145041" class="themeBtn borderBtn">+61358145041</a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-4">
@@ -60,7 +60,7 @@ include 'include/header.php'; ?>
                     <h2 class="section-heading-2 gradient-heading">Newsletter Opt-out</h2>
                     <p>You can opt-out of getting our newsletter and promotional messages by following the instructions
                         provided in each newsletter or communication, or by contacting us at or phoning us at <a
-                            href="tel:+18044606259">+1 (804) 460-6259</a>.</p>
+                            href="tel:+61358145041">+61358145041</a>.</p>
                     <h2 class="section-heading-2 gradient-heading">Social Media Widgets</h2>
                     <p>Plugins for social media, such as the Facebook Like button, and widgets, such as the Share This
                         button or engaging micro that run on our website, are available on the Internet. These features
@@ -151,7 +151,7 @@ include 'include/header.php'; ?>
                         if we think it's appropriate to defend our rights or to compliance with a regulatory procedure,
                         judicial order, or legal demand served on our Web site.</p>
                     <h2 class="section-heading-2 gradient-heading">Questions</h2>
-                    <p>Call our toll-free number (<a href="tel:+18044606259">+1 (804) 460-6259</a>) or contact us at <a
+                    <p>Call our toll-free number (<a href="tel:+61358145041">+61358145041</a>) or contact us at <a
                             href="mailto:info@theweboclock.com">info@theweboclock.com</a> if you have any concerns
                         about our Privacy Policy or how we utilise your information.</p>
                 </div>

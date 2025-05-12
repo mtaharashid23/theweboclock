@@ -65,7 +65,7 @@
                     </ul>
                     <ul class="navbar-nav navbar-right ml-md-auto">
                         <li class="nav-item">
-                            <a href="tel:+18044606259" class="contactBtn">+1 (804) 460-6259</a>
+                            <a href="tel:+61358145041" class="contactBtn">+61358145041</a>
                         </li>
                         <li class="nav-item">
                             <a href="javascript:;" class="themeBtn qouteBtn" data-toggle="modal"

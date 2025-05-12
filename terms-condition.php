@@ -14,7 +14,7 @@ include 'include/header.php'; ?>
                         processing time for revisions would be 48 hours.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn" onclick="setButtonURL();">Get Started</a>
-                        <a href="tel:+18044606259" class="themeBtn borderBtn">+1 (804) 460-6259</a>
+                        <a href="tel:+61358145041" class="themeBtn borderBtn">+61358145041</a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-4">
@@ -118,7 +118,7 @@ include 'include/header.php'; ?>
                     <h2 class="section-heading-2 gradient-heading">How to get your money back</h2>
                     <p>Please make sure you satisfy the following conditions to ensure your refund request is accepted.</p>
                     <p>Request a refund by contacting us using one of the three methods below:</p>
-                    <p><a href="tel:+18044606259">+1 (804) 460-6259 (toll-free)</a></p>
+                    <p><a href="tel:+61358145041">+61358145041 (toll-free)</a></p>
                     <p>Chat in real time</p>
                     <p><a href="mailto:info@theweboclock.com">info@theweboclock.com</a></p>
                     <p>We will use our revision procedure to try to fix your issue as soon as possible, or we will email you

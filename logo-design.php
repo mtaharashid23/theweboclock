@@ -40,7 +40,7 @@ include 'include/header.php'; ?>
                         what you want, as you will be at the heart of all we do.</p>
                     <div class="ctaGroup">
                         <a href="javascript:;" class="themeBtn btn btnTheme" onclick="setButtonURL();">Chat With Us</a>
-                        <a href="tel:+18044606259" class="themeBtn borderBtn">+1 (804) 460-6259</a>
+                        <a href="tel:+61358145041" class="themeBtn borderBtn">+61358145041</a>
                     </div>
                 </div>
             </div>

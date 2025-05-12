@@ -60,7 +60,7 @@
                             </div>
                             <div class="content">
                                 <h6>Phone</h6>
-                                <p><a href="tel:+18044606259">+1 (804) 460-6259</a></p>
+                                <p><a href="tel:+61358145041">+61358145041</a></p>
                             </div>
                         </li>
                         <li>
@@ -80,7 +80,7 @@
                                 <h6>Address</h6>
                                 <p><a href="https://maps.app.goo.gl/D4savQncSooZBZpH6" target="_blank"> 5 S 1st St,
                                         Richmond, VA 23219, United States</a></p>
-                                <p><a href="#"></a></p>
+                                <p><a href="#">55 Gawler Pl, Adelaide SA 5000, Australia</a></p>
                             </div>
                         </li>
                         <ul class="socialicons">

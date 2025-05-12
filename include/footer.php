@@ -58,8 +58,9 @@
                     <h6>About</h6>
                     <ul>
                         <li><a href="mailto:info@theweboclock.com">info@theweboclock.com</a>
-                        <li><a href="tel:+18044606259">+1 (804) 460-6259</a>
+                        <li><a href="tel:+61358145041">+61358145041</a>
                         <li><a href="https://maps.app.goo.gl/D4savQncSooZBZpH6" target="_blank">5 S 1st St, Richmond, VA 23219, United States</a></li>
+                        <li><a href="#">55 Gawler Pl, Adelaide SA 5000, Australia</a></li>
                     </ul>
                 </div>
             </div>

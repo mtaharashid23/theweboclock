@@ -22,7 +22,7 @@
                         you’ve been, where you are now, and where you want to go next.
                     </p>
                     <div class="ctaGroup" data-aos="fade-up">
-                        <a href="tel:+18044606259" class="themeBtn themeWhite mr-1">+1 (804) 460-6259</a>
+                        <a href="tel:+61358145041" class="themeBtn themeWhite mr-1">+61358145041</a>
                         <a href="javascript:;" class="themeBtn borderBtn ml-1" onclick="setButtonURL();">Live
                             Chat</a>
                     </div>
